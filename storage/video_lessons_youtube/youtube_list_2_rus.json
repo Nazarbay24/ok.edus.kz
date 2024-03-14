@@ -1,0 +1,2176 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "n4OIcir39HthObBZ7sf_TzY8gFk",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rk0mg2r_m7hfY14Z3J5s54Gdck0",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-31T11:59:47Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Числа от 0 до 10 /01.09.2020/",
+        "description": "Тема урока: Числа от 0 до 10. Числа от 11 до 20.\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков:\nhttps://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QO91Sm3BP5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QO91Sm3BP5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QO91Sm3BP5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QO91Sm3BP5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QO91Sm3BP5U"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_QlthIwreR_RLArjcfhkIDUq7eg",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T12:02:01Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 2 класс. Произведения Н. Алимкулова и В. Катаева /01.09.2020/",
+        "description": "Тема урока: Произведения Н. Алимкулова «Звонок» и В.Катаева «Дудочка и\nкувшин»\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LfiS1o8bTtA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LfiS1o8bTtA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LfiS1o8bTtA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LfiS1o8bTtA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LfiS1o8bTtA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dVjrtNEBd20XlZkHMkB0t-VGdXA",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:26:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 2 класс. Hello again /01.09.2020/",
+        "description": "Тема урока: Hello again\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xOER1ltk6cI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xOER1ltk6cI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xOER1ltk6cI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xOER1ltk6cI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xOER1ltk6cI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Vif_jAp6_kYZe2Nh8Yp_OJBM2k",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:07:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 2 класс. Где узнать про все на свете? /02.09.2020/",
+        "description": "Тема урока: Где узнать про все на свете?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5lOz7H-ecpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5lOz7H-ecpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5lOz7H-ecpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5lOz7H-ecpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5lOz7H-ecpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5lOz7H-ecpY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QtaIkD-9LiGGqBJKn_7843D1fGs",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:15:32Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Числа от 21 до 100 /02.09.2020/",
+        "description": "Тема урока: Числа от 21 до 100\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wRonjigF44g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wRonjigF44g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wRonjigF44g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wRonjigF44g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wRonjigF44g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wRonjigF44g"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nR9zVDanQPPxiAyPABT2Kp8Az3k",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:17:20Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Звуки и буквы /02.09.2020/",
+        "description": "Тема урока: Звуки и буквы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-g1Fzj0bhmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-g1Fzj0bhmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-g1Fzj0bhmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-g1Fzj0bhmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-g1Fzj0bhmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-g1Fzj0bhmA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hSCsKzC-aOE2dsqTVl2bpc1uKDc",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:15:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 2 класс. Я и моя семья /03.09.2020/",
+        "description": "Тема урока: Я и моя семья\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B2VimnsQ0Hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B2VimnsQ0Hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B2VimnsQ0Hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B2VimnsQ0Hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B2VimnsQ0Hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B2VimnsQ0Hg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h6UJVu3tBsVVmIL68lptoQYjg-c",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:24:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Алфавит /03.09.2020/",
+        "description": "Тема урока: Алфавит\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1p54jay_y8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1p54jay_y8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1p54jay_y8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1p54jay_y8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1p54jay_y8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1p54jay_y8k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S3FezoLmJ7p_NgB49b50Rf2yNGg",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-02T20:00:58Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 2 класс. Екінші сыныпта оқимын /03.09.2020/",
+        "description": "Тема урока: Екінші сыныпта оқимын\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-I_6KflMElI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-I_6KflMElI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-I_6KflMElI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-I_6KflMElI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-I_6KflMElI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-I_6KflMElI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XzCG93BvroTMmL7Q4h6Mqjv2V3U",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:19:00Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 2 класс. Hello again /04.09.2020/",
+        "description": "Тема урока: Hello again\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uLWokz6qeOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uLWokz6qeOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uLWokz6qeOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uLWokz6qeOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uLWokz6qeOY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y9n3J7Y-0f59lWtO4XGQ5Kj-_NQ",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:19:57Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 2 класс. Мир моих увлечений /04.09.2020/",
+        "description": "Тема урока: Мир моих увлечений\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/voIX4gJrSs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/voIX4gJrSs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/voIX4gJrSs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/voIX4gJrSs4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/voIX4gJrSs4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "voIX4gJrSs4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wvl42EE4PEcCNxVy8XFEIixYT5w",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:20:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Десятичный состав двузначных чисел /04.09.2020/",
+        "description": "Тема урока: Десятичный состав двузначных чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/espGhcRAUOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/espGhcRAUOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/espGhcRAUOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/espGhcRAUOA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/espGhcRAUOA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "espGhcRAUOA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9VbXVpfNBQF8ieTWOaYrLnTF8wI",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:23:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Слог /07.09.2020/",
+        "description": "Тема урока: Слог\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/223L_dF4CI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/223L_dF4CI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/223L_dF4CI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/223L_dF4CI8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/223L_dF4CI8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "223L_dF4CI8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I3CZXKu8vjvcnm8Orc8lM0kIH4g",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:24:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 2 класс. Мен сегіздемін /07.09.2020/",
+        "description": "Тема урока: Мен сегіздемін\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8GfSOlxtVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8GfSOlxtVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8GfSOlxtVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_8GfSOlxtVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_8GfSOlxtVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_8GfSOlxtVQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3nEdLeZoxUynzBAMZG9kb028IZ8",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:25:50Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Разрядный состав двухзначных чисел /07.09.2020/",
+        "description": "Тема урока: Разрядный состав двухзначных чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8uqsieOc3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8uqsieOc3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8uqsieOc3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_8uqsieOc3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_8uqsieOc3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_8uqsieOc3w"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dPg8IoJQycR65ibGFq4gtGl3swY",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:16:49Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 2 класс. I can... /08.09.2020/",
+        "description": "Тема урока: I can...\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MeKhuDxCcgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MeKhuDxCcgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MeKhuDxCcgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MeKhuDxCcgw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MeKhuDxCcgw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "McO_mfZUxz-QOxbMH1nCTWt4QBo",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:18:57Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Проверь себя /08.09.2020/",
+        "description": "Тема урока: Проверь себя\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mOCcGxeMKQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mOCcGxeMKQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mOCcGxeMKQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mOCcGxeMKQE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mOCcGxeMKQE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mOCcGxeMKQE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GGDMuHmMYOmEkJ2932NRK-D8swM",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:20:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 2 класс. М. Турежанов «Соловьи» /08.09.2020/",
+        "description": "Тема урока: М. Турежанов «Соловьи» ; В. Осеева «Танины достижения»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_m2btL9K0vA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_m2btL9K0vA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_m2btL9K0vA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_m2btL9K0vA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_m2btL9K0vA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_m2btL9K0vA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "edMFuvNPoM-IcNKgkm8oksBsdDM",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-08T18:02:11Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 2 класс. Зачем одуванчику парашют? /09.09.2020/",
+        "description": "Тема урока: Зачем одуванчику парашют?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zWQk4NZF7aE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zWQk4NZF7aE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zWQk4NZF7aE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zWQk4NZF7aE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zWQk4NZF7aE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GEp28CWOWj_it4BuDcWZanxGKnA",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-08T18:04:47Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Сложение с переходом через десяток /09.09.2020/",
+        "description": "Тема урока: Сложение с переходом через десяток\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uuVqVYo0lj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uuVqVYo0lj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uuVqVYo0lj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uuVqVYo0lj0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uuVqVYo0lj0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RUegSD6cyYJMjxmsyqbW2sZiegY",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-08T18:08:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Перенос слов /09.09.2020/",
+        "description": "Тема урока: Перенос слов. Мои любимые игры\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u5kP-xCJ0EA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u5kP-xCJ0EA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u5kP-xCJ0EA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u5kP-xCJ0EA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u5kP-xCJ0EA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pa4Mkecg7prihpP2CZgW5cJz6lQ",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:00:39Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 2 класс. Я и общество /10.09.2020/",
+        "description": "Тема урока: Я и общество\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AN0EmPP03jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AN0EmPP03jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AN0EmPP03jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AN0EmPP03jg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AN0EmPP03jg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y6H4mS60eq2G2i3InEzvbeidnDE",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:16:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Язык – средство человеческого общения /10.09.2020/",
+        "description": "Тема урока: Язык - средство человеческого общения\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bbh6q9PY81E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bbh6q9PY81E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bbh6q9PY81E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bbh6q9PY81E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Bbh6q9PY81E"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DJOElDO3RlgucVvhjI7fj9JkPnw",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:19:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 2 класс. Сурет саламын /10.09.2020/",
+        "description": "Тема урока: Сурет саламын\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pl8VW1hUjmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pl8VW1hUjmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pl8VW1hUjmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pl8VW1hUjmI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pl8VW1hUjmI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rxgionpRXEg-0Oc9f4_jrifWk8M",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:04:52Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Вычитание с переводом через 10 /11.09.2020/",
+        "description": "Тема урока: Вычитание с переводом через 10\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ax6iWrrgud8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ax6iWrrgud8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ax6iWrrgud8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ax6iWrrgud8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ax6iWrrgud8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XLfgL8SanrnijRKVZpXQUKDe_WM",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:07:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 2 класс. В. Сухомлинский «Для чего говорят спасибо» /11.09.2020/",
+        "description": "Тема урока: Василий Сухомлинский «Для чего говорят спасибо»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dtXxNwu5P70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dtXxNwu5P70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dtXxNwu5P70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dtXxNwu5P70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dtXxNwu5P70"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fccCQFAVrTC2awYOBic5V2Xpy3M",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:09:26Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 2 класс. I can... /11.09.2020/",
+        "description": "Тема урока: I can...\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M0L5Cyg9Zp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M0L5Cyg9Zp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M0L5Cyg9Zp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M0L5Cyg9Zp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M0L5Cyg9Zp8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WmYYRvGrqFkDZwAsZCNnQfr_30g",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-13T18:57:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Устная и письменная речь /14.09.2020/",
+        "description": "Тема урока: Устная и письменная речь\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yM3LOuKvgE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yM3LOuKvgE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yM3LOuKvgE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yM3LOuKvgE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yM3LOuKvgE8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fljpxa-U57GqTtz-BY5ezuRIp50",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-13T18:59:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Сложение и вычитание с переходом через десяток /14.09.2020/",
+        "description": "Тема урока: Сложение и вычитание с переходом через десяток\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w8r9JKa4szg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w8r9JKa4szg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w8r9JKa4szg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w8r9JKa4szg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w8r9JKa4szg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G_xB3pW8cLjeTO0HggPZ3EhsT-Y",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:01:54Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 2 класс. Суда жүзуді үйренемін /14.09.2020/",
+        "description": "Тема урока: Суда жүзуді үйренемін\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bUkwGdUTrA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bUkwGdUTrA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bUkwGdUTrA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bUkwGdUTrA0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bUkwGdUTrA0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cPriFMc5TgHUDACbT414V-C1kiI",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:07:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 2 класс. В. Осеева «Хорошее» /15.09.2020/",
+        "description": "Тема урока: В. Осеева «Хорошее»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Faa8-a_EpzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Faa8-a_EpzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Faa8-a_EpzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Faa8-a_EpzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Faa8-a_EpzI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rOBeqbeZ_8g5ooKHuXxxNzdpF1M",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:11:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Состав числа 11 /15.09.2020/",
+        "description": "Тема урока: Состав числа 11\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DQceGf_U2mk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DQceGf_U2mk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DQceGf_U2mk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DQceGf_U2mk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DQceGf_U2mk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RkiFkckaCJKPck2Cg1ZQZRuuTec",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:28:37Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 2 класс. My things /15.09.2020/",
+        "description": "Тема урока: My things\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sakgmbscDd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sakgmbscDd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sakgmbscDd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sakgmbscDd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sakgmbscDd8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s9lcSLSQhAC6rx_gBbesOyiRzUc",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:52:36Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 2 класс. Что такое эксперимент? /16.09.2020/",
+        "description": "Тема урока: Что такое эксперимент?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qxFjrXNhR98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qxFjrXNhR98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qxFjrXNhR98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qxFjrXNhR98/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qxFjrXNhR98"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kbS3SNdNGCJO0Xzp5BGqy5z8tUc",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:54:54Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Состав числа 12 /16.09.2020/",
+        "description": "Тема урока: Состав числа 12\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iBF7ZNi0Yk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iBF7ZNi0Yk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iBF7ZNi0Yk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iBF7ZNi0Yk4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iBF7ZNi0Yk4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yC4mmgu8-VCeODxnaQn7jWRCgkI",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:56:49Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Слово и предложение /16.09.2020/",
+        "description": "Тема урока: Слово и предложение\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cbwj6FkxYZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cbwj6FkxYZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cbwj6FkxYZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cbwj6FkxYZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cbwj6FkxYZE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AjbBBHHTSkKgb6VJHVpeoPBekyw",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-16T17:56:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 2 класс. Я и общество /17.09.2020/",
+        "description": "Тема урока: Я и общество\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xlz4A7B4g00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xlz4A7B4g00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xlz4A7B4g00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xlz4A7B4g00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xlz4A7B4g00"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WM4g1LcTMPd6GrSQURZxpeA24Ek",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-16T17:58:49Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Заглавная буква и знаки препинания в предложении /17.09.2020/",
+        "description": "Тема урока: Заглавная буква и знаки препинания в предложении\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0oznyOzAAR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0oznyOzAAR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0oznyOzAAR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0oznyOzAAR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0oznyOzAAR4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QehwVKPCZhrHfd-5kA1KEUQga4I",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:00:10Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 2 класс. Ойыншығыңды көрсетші /17.09.2020/",
+        "description": "Тема урока: Ойыншығыңды көрсетші\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UpcH5pbK-5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UpcH5pbK-5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UpcH5pbK-5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UpcH5pbK-5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UpcH5pbK-5s"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l5rhdYSYD6bqdN4Ai9Zqz20joQU",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:08:10Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Сложение и вычитание с переходом через десяток. Закрепление /18.09.2020/",
+        "description": "Тема урока: Сложение и вычитание с переходом через десяток. Закрепление\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z-Ik0mLkR_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z-Ik0mLkR_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-Ik0mLkR_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z-Ik0mLkR_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z-Ik0mLkR_o"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1tplOpBxX_gH3UjPKf3QdwtjiHc",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:09:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 2 класс. М. Горький «Воробьишко» /18.09.2020/",
+        "description": "Тема урока: М. Горький «Воробьишко»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/beJxz3WXhLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/beJxz3WXhLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/beJxz3WXhLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/beJxz3WXhLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "beJxz3WXhLM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3p-U5NLolTVFDLEKE12RC392Wdc",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:14:03Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 2 класс. My clothes /18.09.2020/",
+        "description": "Тема урока: My clothes\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ejW11ti9q2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ejW11ti9q2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ejW11ti9q2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ejW11ti9q2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ejW11ti9q2U"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "29c0eGsm7xIcyQ2Pw3kaNUk0Llc",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:17:06Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Состав числа 13 /21.09.2020/",
+        "description": "Тема урока: Состав числа 13\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MWgY9u2iosQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MWgY9u2iosQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MWgY9u2iosQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MWgY9u2iosQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MWgY9u2iosQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q7GdQrWClweNxpMbxRTCp6QRwT0",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:20:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Текст. Составление текста по вопросам /21.09.2020/",
+        "description": "Тема урока: Текст. Составление текста по вопросам\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZkPbjQ4LfWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZkPbjQ4LfWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZkPbjQ4LfWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZkPbjQ4LfWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZkPbjQ4LfWo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DmqLsy5qGZhJL4v716ajHcaW2hg",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:23:40Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 2 класс. Қуыршағымның аты Қарақат /21.09.2020/",
+        "description": "Тема урока: Қуыршағымның аты Қарақат\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SOUyHddGbq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SOUyHddGbq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SOUyHddGbq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SOUyHddGbq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SOUyHddGbq4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9qn0r_FaAWH_Gtij5RkdqXgMl3M",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-21T16:08:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Состав числа 14 /22.09.2020/",
+        "description": "Тема урока: Состав числа 14\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UtEuBFZGKYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UtEuBFZGKYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UtEuBFZGKYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UtEuBFZGKYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UtEuBFZGKYQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XEY-MwyNN4B5irlIo5uN3a-SJuA",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-21T16:11:33Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 2 класс. My clothes /22.09.2020/",
+        "description": "Тема урока: My clothes\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4OPGg6rFDEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4OPGg6rFDEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4OPGg6rFDEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4OPGg6rFDEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4OPGg6rFDEo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9AxJa6BShbxCbcarCOxEQFYjXQo",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-21T16:15:47Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 2 класс. Д. Джумагельдинова «Еркегали – мальчик-озорник» /22.09.2020/",
+        "description": "Тема урока: Д. Джумагельдинова «Еркегали – мальчик-озорник» и «Ссора с отцом»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/38JPyJZInhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/38JPyJZInhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/38JPyJZInhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/38JPyJZInhw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "38JPyJZInhw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iZNyx8Z1aNsS1Y-AO-9rD8i3jlk",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-22T16:18:36Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 2 класс. Состав чисел 15, 16 /23.09.2020/",
+        "description": "Тема урока: Состав чисел 15, 16\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qhqu5zu3VCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qhqu5zu3VCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qhqu5zu3VCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qhqu5zu3VCM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qhqu5zu3VCM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g93fGL5SgJ1HTKTURP4UaMTMqaU",
+      "id": "UExESXdOSlljSVE3N0xJazBxdHE4SjcwUnpCUC0zUTVfNy44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-09-22T16:21:58Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 2 класс. Составление текста по опорным словам /23.09.2020/",
+        "description": "Тема урока: Составление текста по опорным словам\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NXEI5tNpCh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NXEI5tNpCh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NXEI5tNpCh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NXEI5tNpCh4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ77LIk0qtq8J70RzBP-3Q5_7",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NXEI5tNpCh4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 460,
+    "resultsPerPage": 50
+  }
+}

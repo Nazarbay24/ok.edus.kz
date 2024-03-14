@@ -1,0 +1,2201 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "35-ygnPJCuBI5F-o8NZ3C-5jpmI",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wmLiwiK3FEoCJHZ2XU7itlH2XWU",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:01:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 11 класс. Рассказ Р. Бредбери «Улыбка»/01.09.2020",
+        "description": "Тема урока: Значимость культурных ценностей на примере рассказа Р. Бредбери «Улыбка»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_omAWX9jVJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_omAWX9jVJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_omAWX9jVJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_omAWX9jVJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_omAWX9jVJM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SrRJBxT5RlSvckmU1Rq7Pd_l2Yg",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:15:15Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 11 класс. Экономика и типы экономических систем /01.09.2020/",
+        "description": "Тема урока: Экономика и типы экономических систем\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qDdNC25-jKE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qDdNC25-jKE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qDdNC25-jKE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qDdNC25-jKE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qDdNC25-jKE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4EWFX8rWgBE6XD7i53SJEs8Zq1o",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:16:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 11 класс. Развитие кочевого скотоводства на территории Казахстана /01.09.2020/",
+        "description": "Тема урока: Развитие кочевого скотоводства и земледелия на территории Казахстана\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ODanGqDW2bQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ODanGqDW2bQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ODanGqDW2bQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ODanGqDW2bQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ODanGqDW2bQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MMoz3N73CUMV9DzEgbzQ7fUtrlI",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:55:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 11 класс. Повторение курса геометрии 10 класса /01.09.2020/",
+        "description": "Тема урока: Повторение курса геометрии 10 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oR9_NiyYsuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oR9_NiyYsuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oR9_NiyYsuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oR9_NiyYsuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oR9_NiyYsuE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jdTqJb32off0n8nz7PbaxHfjHOQ",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-09-01T22:47:08Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 11 класс. Повторение /02.09.2020/",
+        "description": "Тема урока: Повторение\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k-jPqHT7yRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k-jPqHT7yRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k-jPqHT7yRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k-jPqHT7yRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k-jPqHT7yRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k-jPqHT7yRE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n1GsERoKm_1gV6_MXCKWtPYPmxg",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:08:54Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 11 класс. Элементы географической экспертизы и их применение /02.09.2020/",
+        "description": "Тема урока: Элементы географической экспертизы и их применение\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uC1HtL9SPEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uC1HtL9SPEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uC1HtL9SPEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uC1HtL9SPEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uC1HtL9SPEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uC1HtL9SPEM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eUPY-bRY28Zj6837uBCuAZzdiyM",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:25:04Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 11 класс. Әлеуметтік мәселе туралы не білесіз? /02.09.2020/",
+        "description": "Тема урока: Әлеуметтік мәселе туралы не білесіз?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ucdqpXYT5aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ucdqpXYT5aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ucdqpXYT5aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ucdqpXYT5aQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ucdqpXYT5aQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ucdqpXYT5aQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rOcBnjF3xUU3kVzSZHMqOZTAuuE",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:26:21Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 11 класс. Изомерия и гомологический ряд /02.09.2020/",
+        "description": "Тема урока: Основные положения теории строения органических соединений А. М. Бутлерова. Изомерия и гомологический ряд\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hxYH9jkaLJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hxYH9jkaLJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hxYH9jkaLJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hxYH9jkaLJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hxYH9jkaLJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hxYH9jkaLJM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zpxgwiVQ0X0K104Cqncu6veKSAA",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:31:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 11 класс. Традиционная (аграрная) экономика /03.09.2020/",
+        "description": "Тема урока: Традиционная (аграрная) экономика\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CSi2pMe7lak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CSi2pMe7lak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CSi2pMe7lak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CSi2pMe7lak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CSi2pMe7lak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CSi2pMe7lak"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LDmqIbPounQD28mazxE05hh1sEM",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:33:28Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 11 класс. Уравнение и графика гармонических колебаний /03.09.2020/",
+        "description": "Тема урока: Уравнение и графика гармонических колебаний\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wpMHZJA5dAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wpMHZJA5dAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wpMHZJA5dAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wpMHZJA5dAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wpMHZJA5dAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wpMHZJA5dAo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zJ_k3KIsJ-E5I9wkEqnJZ6vIntE",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:44:39Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 11 класс. A new academic year resolution /03.09.2020/",
+        "description": "Тема урока: A new academic year resolution\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y73rkTKPZd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y73rkTKPZd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y73rkTKPZd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y73rkTKPZd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y73rkTKPZd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y73rkTKPZd0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MwPPZIWGCOev-_xqJSi8hBQJ6wA",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:36:50Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 11 класс. Облачные технологии /04.09.2020/",
+        "description": "Тема урока: Облачные технологии\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P5ng09dYvos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P5ng09dYvos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P5ng09dYvos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P5ng09dYvos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P5ng09dYvos/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P5ng09dYvos"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yap2MZXoLcOzJ_6t_XSSUVTYZm4",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:43:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 11 класс. Механизм взаимодействия между антигеном и антителом /04.09.2020/",
+        "description": "Тема урока: Механизм взаимодействия между антигеном и антителом\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FdLGDi0tly0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FdLGDi0tly0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FdLGDi0tly0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FdLGDi0tly0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FdLGDi0tly0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FdLGDi0tly0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LOgeATewNjW-AggXmLVUdBVql1s",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:44:54Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 11 класс. Architectura of different countries /04.09.2020/",
+        "description": "Тема урока: Architectura of different countries\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VblwafMM7FM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VblwafMM7FM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VblwafMM7FM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VblwafMM7FM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VblwafMM7FM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VblwafMM7FM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tNRvbnUpEAZcnkVTJtzaaD68SO0",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:45:51Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 11 класс. Методы экспертных оценок /04.09.2020/",
+        "description": "Тема урока: Методы экспертных оценок\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LfgZfaUwn0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LfgZfaUwn0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LfgZfaUwn0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LfgZfaUwn0s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LfgZfaUwn0s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LfgZfaUwn0s"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mtJiA2QbhkQvpZu1K_d5HpODfC4",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:46:11Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 11 класс. Классификация и номенклатура органических веществ /04.09.2020/",
+        "description": "Тема урока: Классификация и номенклатура органических веществ\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x8MEcHc4Isg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x8MEcHc4Isg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x8MEcHc4Isg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x8MEcHc4Isg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x8MEcHc4Isg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x8MEcHc4Isg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vxIn1Ed-rxEqlIt0ZuQ-mHchI6w",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:21:03Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 11 класс. Повторение курса алгебры и начала анализа 10 класса /07.09.2020/",
+        "description": "Тема урока: Повторение курса алгебры и начала анализа 10 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ALZMXg4vIEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ALZMXg4vIEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ALZMXg4vIEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ALZMXg4vIEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ALZMXg4vIEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ALZMXg4vIEE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ofezNkjnMBeTaRfB_mGbG76VUeY",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:23:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 11 класс. Механизм взаимодействия фермента и субстрата /07.09.2020/",
+        "description": "Тема урока: Механизм взаимодействия фермента и субстрата\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9XHVgBLCCao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9XHVgBLCCao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9XHVgBLCCao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9XHVgBLCCao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9XHVgBLCCao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9XHVgBLCCao"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iQJFvsTUvDDGB9YHZ1ZfVEtBcdk",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:30:19Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 11 класс. Әлеуметтану дегеніміз не? /07.09.2020/",
+        "description": "Тема урока: Әлеуметтану дегеніміз не?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xDEs1dbH6eQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xDEs1dbH6eQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xDEs1dbH6eQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xDEs1dbH6eQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xDEs1dbH6eQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xDEs1dbH6eQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QNxfQv5jQi11duU2axqd34nlnxQ",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:34:17Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 11 класс. Свободные и вынужденные электромагнитные колебания /07.09.2020/",
+        "description": "Тема урока: Свободные и вынужденные электромагнитные колебания\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9j-b0dpzFcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9j-b0dpzFcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9j-b0dpzFcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9j-b0dpzFcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9j-b0dpzFcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9j-b0dpzFcc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1AKbONmm3fFdgFn_P0Nc2qg0L6Q",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:50:00Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 11 класс. Что такое социальное равенство и неравенство? /07.09.2020/",
+        "description": "Тема урока: Что такое социальное равенство и неравенство?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K3BGTrA84Y0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K3BGTrA84Y0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K3BGTrA84Y0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K3BGTrA84Y0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K3BGTrA84Y0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fbJeNOCOF08U1bh606mxGBiLNDU",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-08T08:46:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 11 класс. Рыночная экономика /08.09.2020/",
+        "description": "Тема урока: Рыночная экономика\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YclKF0H7_aI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YclKF0H7_aI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YclKF0H7_aI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YclKF0H7_aI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YclKF0H7_aI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YclKF0H7_aI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YWeUmELr0PNWkcYOMKVHWa7eYT4",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-08T08:49:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 11 класс. Нить судьбы. Биография и творчество Б. Пастернака /08.09.2020/",
+        "description": "Тема урока: Нить судьбы. Биография и творчество Б. Пастернака\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKZjbF3i0yE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKZjbF3i0yE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKZjbF3i0yE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xKZjbF3i0yE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xKZjbF3i0yE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xKZjbF3i0yE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pWQ2nGE6By6HQX_cEh-Vd_PLliY",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-08T08:53:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 11 класс. Промыслы и ремёсла /08.09.2020/",
+        "description": "Тема урока: Промыслы и ремёсла\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eCbuaYUcEeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eCbuaYUcEeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eCbuaYUcEeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eCbuaYUcEeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eCbuaYUcEeo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o1JXwE-YMDzmnN3P9-tbXQwUs0s",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-08T08:55:20Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 11 класс. Многогранный угол. Геометрическое тело /08.09.2020/",
+        "description": "Тема урока: Многогранный угол. Геометрическое тело\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_N8MNB5N7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_N8MNB5N7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_N8MNB5N7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x_N8MNB5N7Y"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pvkkDmp08LQE4PQzRVyMy9E7O9A",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:16:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 11 класс. Отбасы құндылықтары /09.09.2020/",
+        "description": "Тема урока: Отбасы құндылықтары\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tpjDvJYWC2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tpjDvJYWC2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tpjDvJYWC2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tpjDvJYWC2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tpjDvJYWC2c"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VKOekY5HpVp5Z6DLgZo2-oUNMcs",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:32:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 11 класс. Особенности строения атома углерода /09.09.2020/",
+        "description": "Тема урока: Особенности строения атома углерода \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fXmbvaAFAak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fXmbvaAFAak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fXmbvaAFAak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fXmbvaAFAak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fXmbvaAFAak"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dbw1oTEA85vZFLICIA8NcnbUoXQ",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:37:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 11 класс. Актуальные методы географических исследований /09.09.2020/",
+        "description": "Тема урока: Актуальные методы географических исследований\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ps5dqEEIXAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ps5dqEEIXAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ps5dqEEIXAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ps5dqEEIXAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ps5dqEEIXAM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oJn9iSkG6t3iqmsR6Y9SvEtIUSM",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:42:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 11 класс. Первообразная функция и неопределенный интеграл /09.09.2020/",
+        "description": "Тема урока: Первообразная функция и неопределенный интеграл\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N6_LFq4hzmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N6_LFq4hzmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6_LFq4hzmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N6_LFq4hzmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N6_LFq4hzmc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NNGWlkXydmqsADzwqswC5yiPFDQ",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:54:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 11 класс. Аналогии между механическими и электромагнитными колебаниями /10.09.2020/",
+        "description": "Тема урока: Аналогии между механическими и электромагнитными колебаниями\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XXBaxcOJOcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XXBaxcOJOcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XXBaxcOJOcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XXBaxcOJOcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XXBaxcOJOcs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cVI3MEE3KPEHNoY6xJegf0eZr5o",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:57:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 11 класс. Housing /10.09.2020/",
+        "description": "Тема урока: Housing\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/thdBWg5jBfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/thdBWg5jBfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/thdBWg5jBfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/thdBWg5jBfI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "thdBWg5jBfI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CxwIICx3oA9IRlNs0pjnZH3-big",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:00:18Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 11 класс. Рыночная экономика /10.09.2020/",
+        "description": "Тема урока: Рыночная  экономика\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p_UAwHgfp8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p_UAwHgfp8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p_UAwHgfp8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p_UAwHgfp8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p_UAwHgfp8s"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YiHcja46Tr1AZxB-JZ8txco65Uk",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-10T10:15:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 11 класс. Промыслы и ремёсла /10.09.2020/",
+        "description": "Тема урока: Промыслы и ремёсла\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VdBc6h2d0J4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VdBc6h2d0J4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VdBc6h2d0J4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VdBc6h2d0J4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VdBc6h2d0J4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VdBc6h2d0J4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YhSvKnTtfdnkr1IptHSUATaZUiQ",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:26:52Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 11 класс. Облачные технологии /11.09.2020/",
+        "description": "Тема урока: Облачные технологии\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/trtF6UPYDpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/trtF6UPYDpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/trtF6UPYDpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/trtF6UPYDpI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "trtF6UPYDpI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Bv7dlkmSpYpBEj03ajPzg53ypY",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:29:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 11 класс. Методы геоэкологического районирования /11.09.2020/",
+        "description": "Тема урока: Методы геоэкологического районирования\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sh4U6yVQOec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sh4U6yVQOec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sh4U6yVQOec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sh4U6yVQOec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sh4U6yVQOec"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nUVt9L-ImlUo3It9zyU7UxiF62Q",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:31:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 11 класс. History and culture /11.09.2020/",
+        "description": "Тема урока: History and culture\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z7X03Tqlfbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z7X03Tqlfbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z7X03Tqlfbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z7X03Tqlfbw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z7X03Tqlfbw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3KFHiXbJGphyEDfeNfJEeGrYSbs",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:33:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 11 класс. Транскрипция. Этапы трансляции /11.09.2020/",
+        "description": "Тема урока: Транскрипция. Этапы трансляции\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pp2QLinkKyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pp2QLinkKyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pp2QLinkKyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pp2QLinkKyM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pp2QLinkKyM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xg0w7YPde4gNv45wjdqATS7T28g",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:36:18Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 11 класс. Понятие о свободных радикалов и их значении в жизни живых организмов /11.09.2020/",
+        "description": "Тема урока: Понятие о свободных радикалов и их значении в жизни живых организмов\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W95Qn5tTjXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W95Qn5tTjXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W95Qn5tTjXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W95Qn5tTjXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W95Qn5tTjXI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2FxChWZHd7tvy5GVWOndnG3N9cc",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-13T16:53:47Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 11 класс. Первообразная и неопределенный интеграл /14.09.2020/",
+        "description": "Тема урока: Первообразная и неопределенный интеграл\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KESX2pRVDmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KESX2pRVDmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KESX2pRVDmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KESX2pRVDmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KESX2pRVDmM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mxWPaDxxCiS8YRGZWr64z9f43RI",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-09-13T16:55:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 11 класс. Қоғамның әлеуметтік құрылымы /14.09.2020/",
+        "description": "Тема урока: Қоғамның әлеуметтік құрылымы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/amSXKroHyfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/amSXKroHyfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/amSXKroHyfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/amSXKroHyfg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "amSXKroHyfg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zfEeksLmVNIY7P7Ti5QU4q4gGHM",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-13T16:57:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 11 класс. Генератор переменного тока /14.09.2020/",
+        "description": "Тема урока: Генератор переменного тока\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/euhAk6fg04s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/euhAk6fg04s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/euhAk6fg04s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/euhAk6fg04s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "euhAk6fg04s"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o0PDca0RAwnCJRo77KBeXR2OYT0",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-13T16:59:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 11 класс. Социальное неравенство и в современном мире /14.09.2020/",
+        "description": "Тема урока: Социальное неравенство и в современном мире\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uOt11H1XrfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uOt11H1XrfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uOt11H1XrfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uOt11H1XrfY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uOt11H1XrfY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gd9_X8xQcQ28NLF477afcfphCDM",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:01:24Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 11 класс. Свойства генетического кода /14.09.2020/",
+        "description": "Тема урока: Свойства генетического кода \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lbe6QJbahks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lbe6QJbahks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lbe6QJbahks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lbe6QJbahks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Lbe6QJbahks"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6lZCijGxeNSN6WZUwrdVm8tjnUo",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-15T00:16:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 11 класс. История, революция, природа в романе «Доктор Живаго» /15.09.2020/",
+        "description": "Тема урока: История, революция, природа в романе Бориса Пастернака «Доктор Живаго»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GqjcEEpxLSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GqjcEEpxLSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GqjcEEpxLSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GqjcEEpxLSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GqjcEEpxLSE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q4Q-x_4jBVZOBc6caV2lVH3vmlM",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-15T00:19:01Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 11 класс. Понятие многогранника /15.09.2020/",
+        "description": "Тема урока: Понятие многогранника \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qhpNrdpb26k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qhpNrdpb26k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qhpNrdpb26k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qhpNrdpb26k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qhpNrdpb26k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fWmyb6UeL6NMyt4dWiyyJ_qwAXU",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-15T00:20:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 11 класс. Роль Великого Шелкового пути в развитии Казахстана /15.09.2020/",
+        "description": "Тема урока: Роль Великого Шелкового пути в развитии городской культуры Казахстана\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qo6VA5JKbdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qo6VA5JKbdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qo6VA5JKbdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qo6VA5JKbdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qo6VA5JKbdc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IczxnpclETw65af5KKwk9dI4zT4",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-15T00:22:18Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 11 класс. Плановая экономика /15.09.2020/",
+        "description": "Тема урока: Плановая экономика\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rrz7E4zVqwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rrz7E4zVqwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rrz7E4zVqwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rrz7E4zVqwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rrz7E4zVqwk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r_SUyG87YT9nX4bMAYdrdw-YhBI",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:50:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 11 класс. Первообразная и неопределенный интеграл /16.09.2020/",
+        "description": "Тема урока: Первообразная и неопределенный интеграл\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y9__G2RCj1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y9__G2RCj1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y9__G2RCj1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y9__G2RCj1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y9__G2RCj1c"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BcUw3qV--Q_L9-Y6sWreLCfUsZI",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:52:10Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 11 класс. Геоинформационные системы /16.09.2020/",
+        "description": "Тема урока: Геоинформационные системы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5koSgHQ8Wqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5koSgHQ8Wqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5koSgHQ8Wqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5koSgHQ8Wqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5koSgHQ8Wqg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S27SuYbEPguVlYEpXJH2oG9bDE0",
+      "id": "UExESXdOSlljSVE3NW9xekEwVnVybFYxeWlsUFdkeDJicC44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:53:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 11 класс. Алканы. Горение метана, этилена, ацетилена /16.09.2020/",
+        "description": "Тема урока: Алканы. Горение метана, этилена, ацетилена\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tTKFmVv6KRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tTKFmVv6KRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tTKFmVv6KRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tTKFmVv6KRU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75oqzA0VurlV1yilPWdx2bp",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tTKFmVv6KRU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 709,
+    "resultsPerPage": 50
+  }
+}

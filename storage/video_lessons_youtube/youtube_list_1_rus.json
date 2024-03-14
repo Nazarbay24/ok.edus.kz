@@ -1,0 +1,2186 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Cxtf4c9ngABIIZIZkdbicmy9klI",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rXQmZc-UMieF3ShBiSFmv6tyTPc",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-31T09:30:51Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 1 класс. Сәлем! Сенің атың кім? /01.09.2020/",
+        "description": "Тема урока: Сәлем! Сенің атың кім?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P9xzPG4brmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P9xzPG4brmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P9xzPG4brmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P9xzPG4brmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P9xzPG4brmg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q1SXz8hVKYN09NYGk9ij9Rz6mSg",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T11:03:04Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Давайте познакомимся /01.09.2020/",
+        "description": "Тема урока: «Давайте познакомимся»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/chpBuMpKxts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/chpBuMpKxts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/chpBuMpKxts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/chpBuMpKxts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "chpBuMpKxts"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P_z6L7kxG0inc-JczHCUGDnRb9s",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-31T11:16:26Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Счёт предметов /01.09.2020/",
+        "description": "Тема урока: «Счёт предметов»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6YTmRYSydRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6YTmRYSydRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6YTmRYSydRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6YTmRYSydRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6YTmRYSydRc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vi0gCytR8n3116ymFf9hW01l5uQ",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:36:06Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 1 класс. Greetings and names /02.09.2020/",
+        "description": "Тема урока: Greetings and names \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/db6GaJiLYz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/db6GaJiLYz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/db6GaJiLYz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/db6GaJiLYz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/db6GaJiLYz4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "db6GaJiLYz4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZIkRqV6IO6C7ErZspJKdPHfmrg0",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:06:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Порядковый счёт /02.09.2020/",
+        "description": "Тема урока: «Порядковый счёт»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iEMDCmA5gKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iEMDCmA5gKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iEMDCmA5gKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iEMDCmA5gKQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iEMDCmA5gKQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iEMDCmA5gKQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WyNpkMly2dlivZYmDJ9M9QSXJeQ",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:27:54Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Кто такие школьники? /02.09.2020/",
+        "description": "Тема урока: «Кто такие школьники?»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mOpabrrVehc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mOpabrrVehc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mOpabrrVehc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mOpabrrVehc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mOpabrrVehc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mOpabrrVehc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1eHF7hR806XpjY7busE__BfgmWw",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:19:16Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 1 класс. Бұл кім? /03.09.2020/",
+        "description": "Тема урока:  Бұл кім? \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QYuSbzARCfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QYuSbzARCfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QYuSbzARCfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QYuSbzARCfM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QYuSbzARCfM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QYuSbzARCfM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZXIP4Yjv3i2FauX45TkMZVxaMh0",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:55:54Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Сравнение чисел /03.09.2020/",
+        "description": "Тема урока: Сравнение чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uX1kaegd_SU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uX1kaegd_SU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uX1kaegd_SU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uX1kaegd_SU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uX1kaegd_SU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uX1kaegd_SU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3L4iLk2GYjm7mH0IlAmSl1kLLzw",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:57:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Как люди общаются? /03.09.2020/",
+        "description": "Тема урока: Как люди общаются?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-zS0Sl-k30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-zS0Sl-k30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-zS0Sl-k30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O-zS0Sl-k30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O-zS0Sl-k30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O-zS0Sl-k30"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hu33VeAZNPoaDbul8ishuJgZWBU",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:17:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 1 класс. Кто я /04.09.2020/",
+        "description": "Тема урока: «Кто я»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2veS61bsLjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2veS61bsLjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2veS61bsLjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2veS61bsLjE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2veS61bsLjE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2veS61bsLjE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9a6C_CdtjzbizZQ2y5NNqDveGMQ",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:38:21Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Что помогает людям общаться? /04.09.2020/",
+        "description": "Тема урока: «Что помогает людям общаться?»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vlvXa_k8dsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vlvXa_k8dsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vlvXa_k8dsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vlvXa_k8dsU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vlvXa_k8dsU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vlvXa_k8dsU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s5t40TpZgc7BfLoO4pI_xIyxa_4",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:39:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 1 класс. Я – исследователь /04.09.2020/",
+        "description": "Тема урока: «Я – исследователь»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oli1fUl74nQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oli1fUl74nQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oli1fUl74nQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oli1fUl74nQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oli1fUl74nQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oli1fUl74nQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CAA_tIK7RwTAc8HQe1vmXVDrNPI",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:28:20Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Числовой луч /07.09.2020/",
+        "description": "Тема урока: Числовой луч\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Su_AvTN5cU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Su_AvTN5cU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Su_AvTN5cU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Su_AvTN5cU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Su_AvTN5cU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Su_AvTN5cU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K8uXK1lKDnEjlVmIxqaeXnuo3nU",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:28:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Как Буратино пошел в школу? /07.09.2020/",
+        "description": "Тема урока: Как Буратино пошел в школу? \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CFlyE6dyPK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CFlyE6dyPK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CFlyE6dyPK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CFlyE6dyPK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CFlyE6dyPK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CFlyE6dyPK0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RXg2f2Z_syCQWYZ5DDdJlyKbMVs",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:29:57Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 1 класс. Colours /07.09.2020/",
+        "description": "Тема урока: Colours\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e68wFEWvy3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e68wFEWvy3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e68wFEWvy3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e68wFEWvy3A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e68wFEWvy3A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e68wFEWvy3A"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yQh471jzqvZHshcm29T6GB6phbU",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:11:01Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Что такое интонация? /08.09.2020/",
+        "description": "Тема урока: Что такое интонация?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u9-RGZ2Buao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u9-RGZ2Buao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u9-RGZ2Buao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u9-RGZ2Buao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u9-RGZ2Buao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u9-RGZ2Buao"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fBAp8gZv9MjN5iqd3IzfPSkNiiY",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:12:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Больше, меньше, равно /08.09.2020/",
+        "description": "Тема урока: Больше, меньше , равно\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xHwTUvS0i04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xHwTUvS0i04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xHwTUvS0i04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xHwTUvS0i04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xHwTUvS0i04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xHwTUvS0i04"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v2NDMLVN_JlMwqc9JoP1QDIApHw",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:14:02Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 1 класс. Бұл не? /08.09.2020/",
+        "description": "Тема урока: Бұл не?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J8cf6EH3-qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J8cf6EH3-qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J8cf6EH3-qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J8cf6EH3-qk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J8cf6EH3-qk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J8cf6EH3-qk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6viRqL18i0bK4LrjlQzcjrQu8X8",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-08T17:38:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Из чего состоят предложения? /09.09.2020/",
+        "description": "Тема урока: Из чего состоят предложения?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Eh2Monyde4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Eh2Monyde4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Eh2Monyde4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Eh2Monyde4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2Eh2Monyde4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h2xlRel8swmwt55watLm09Nb3UM",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-08T17:43:36Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 1 класс. Numbers /09.09.2020/",
+        "description": "Тема урока: Numbers\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EvMoWTU4Udo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EvMoWTU4Udo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EvMoWTU4Udo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EvMoWTU4Udo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EvMoWTU4Udo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EUf04rXlh46euYAiinnKYcnxI1U",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:26:01Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Что такое слово? /10.09.2020/",
+        "description": "Тема урока: Что такое слово?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/By3ph7uTojw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/By3ph7uTojw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/By3ph7uTojw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/By3ph7uTojw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "By3ph7uTojw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ReYCig0-4yytyD7BAs_j3CczNSA",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:28:05Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Число и цифра 2 /10.09.2020/",
+        "description": "Тема урока: Число и цифра 2\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wobX-5VXhFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wobX-5VXhFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wobX-5VXhFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wobX-5VXhFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wobX-5VXhFM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PloN3zg7k_zonsWtXWzYf2iou7Y",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:31:37Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 1 класс. Қандай доп? /10.09.2020/",
+        "description": "Тема урока: Қандай доп?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_0vx4CP98bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_0vx4CP98bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_0vx4CP98bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_0vx4CP98bo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_0vx4CP98bo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DL3KeyRX_7nX1QRctI8qLCj_FCU",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:11:57Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 1 класс. Необходимые предметы /11.09.2020/",
+        "description": "Тема урока: Необходимые предметы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gX4SqyaBe2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gX4SqyaBe2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gX4SqyaBe2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gX4SqyaBe2M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gX4SqyaBe2M"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o_hopRwhAKyQtwBsFr2HV8V7fsc",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:15:13Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. О чем могут рассказать слова /11.09.2020/",
+        "description": "Тема урока: О чем могут рассказать слова\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wPt3nWchCIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wPt3nWchCIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wPt3nWchCIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wPt3nWchCIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wPt3nWchCIk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ezCJBZqEoBHI_PZqNeid0E30KrI",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:27:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 1 класс. Растения - живые организмы /11.09.2020/",
+        "description": "Тема урока: Растения - живые организмы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ejEOXdGLZrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ejEOXdGLZrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ejEOXdGLZrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ejEOXdGLZrg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ejEOXdGLZrg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qFyAx9mh2UU6dVZ8AUkXdsNL0Gg",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:04:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Число и цифра 3 /14.09.2020/",
+        "description": "Тема урока: Число и цифра 3\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U8Szb6qbgYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U8Szb6qbgYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U8Szb6qbgYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U8Szb6qbgYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U8Szb6qbgYI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tdqGI6ijxvhAzooX9czUJgkFXOw",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:06:20Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Как образуется слог? /14.09.2020/",
+        "description": "Тема урока: «Как образуется слог?»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gv_NmNodsCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gv_NmNodsCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gv_NmNodsCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gv_NmNodsCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gv_NmNodsCI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KVUG33756X9Q99_REDwAK-NsPsA",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:08:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 1 класс.  My family /14.09.2020/",
+        "description": "Тема урока: My family\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VoAK5PwEUek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VoAK5PwEUek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VoAK5PwEUek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VoAK5PwEUek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VoAK5PwEUek"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pWbQ5FvQ23Ph7U2D8eD7elEEtGE",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:22:08Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 1 класс. Неше доп? /15.09.2020/",
+        "description": "Тема урока: Неше доп?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zB9d1tGBoJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zB9d1tGBoJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zB9d1tGBoJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zB9d1tGBoJA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zB9d1tGBoJA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sSWKUV3WCU4YFhnbzoQzwNZPkv4",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:24:11Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Как мы произносим слоги /15.09.2020/",
+        "description": "Тема урока: «Как мы произносим слоги»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4utNpvpYAmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4utNpvpYAmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4utNpvpYAmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4utNpvpYAmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4utNpvpYAmc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aODgbMlkkoGCrd6tGf96xNy1B2s",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:26:19Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Число и цифра 4 /15.09.2020/",
+        "description": "Тема урока: Число и цифра 4\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h1sy536kKo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h1sy536kKo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h1sy536kKo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h1sy536kKo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h1sy536kKo0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R355yhNu0Cs_Nw4atL63cQ-NKd0",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:44:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Число и цифра 5 /16.09.2020/",
+        "description": "Тема урока: Число и цифра 5\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B07260u0Zo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B07260u0Zo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B07260u0Zo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B07260u0Zo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B07260u0Zo4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zgjgh4Bspwhfa1LuQpMoxfovs2U",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:46:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Как найти ударный слог /16.09.2020/",
+        "description": "Тема урока: Как найти ударный слог\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PWbWZS_fvyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PWbWZS_fvyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PWbWZS_fvyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PWbWZS_fvyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PWbWZS_fvyU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eGTimUUQvItkNrp1Jcf_cYJtHSk",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:49:11Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 1 класс. About me /16.09.2020/",
+        "description": "Тема урока: About me\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HsS5FlGLl1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HsS5FlGLl1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HsS5FlGLl1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HsS5FlGLl1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HsS5FlGLl1w"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7iQt5R1d4Xk_EqdBO3GEOkfJpSc",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:10:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 1 класс. Киімдер /17.09.2020/",
+        "description": "Тема урока: Киімдер\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R16o21tiWDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R16o21tiWDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R16o21tiWDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R16o21tiWDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R16o21tiWDY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hVtn3mQnH34xhfFlpDDV1L60I6E",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:14:04Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Число и цифра 6 /17.09.2020/",
+        "description": "Тема урока: Число и цифра 6\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z326W3BgmBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z326W3BgmBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z326W3BgmBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z326W3BgmBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z326W3BgmBY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "deh_boeHp4HVaH1wm0TmT4rICro",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:15:39Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Что мы слышим и произносим? /17.09.2020/",
+        "description": "Тема урока: Что мы слышим и произносим?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zqw1QTd4a6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zqw1QTd4a6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zqw1QTd4a6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zqw1QTd4a6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zqw1QTd4a6o"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cTNi2DxL1n8AItDfPXJlcY6GqqE",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:15:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 1 класс.  Режим дня /18.09.2020/",
+        "description": "Тема урока: Режим дня\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ChyxJKDMkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ChyxJKDMkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ChyxJKDMkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4ChyxJKDMkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4ChyxJKDMkU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NsI-xsGxZegnBN7g4gv0Gb6t3v8",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:17:35Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Как найти звук? /18.09.2020/",
+        "description": "Тема урока: Как найти звук?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FmVYEyKUiSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FmVYEyKUiSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FmVYEyKUiSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FmVYEyKUiSo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FmVYEyKUiSo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lgfXKwNt60t2EOqKM0jbLY1J1OM",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:21:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 1 класс. Какие бывают растения /18.09.2020/",
+        "description": "Тема урока: Какие бывают растения\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MTwoj4tcs5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MTwoj4tcs5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MTwoj4tcs5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MTwoj4tcs5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MTwoj4tcs5g"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zcBUB2Rh6sKID2gEPmGchQEvi18",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:06:35Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Как получить новые слова? /21.09.2020/",
+        "description": "Тема урока: Как получить новые слова?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CamUd2_L1bQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CamUd2_L1bQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CamUd2_L1bQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CamUd2_L1bQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CamUd2_L1bQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CMJEVU8TbVjkNO39WceHan9i9HY",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:09:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Число и цифра 7 /21.09.2020/",
+        "description": "Тема урока: Число и цифра 7\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-SUtao7lWOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-SUtao7lWOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-SUtao7lWOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-SUtao7lWOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-SUtao7lWOU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rEjDSj3J1HvCgX8BjH8WX2auJF8",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:13:10Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 1 класс. ABC time /21.09.2020/",
+        "description": "Тема урока: ABC time\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/459nec6TBrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/459nec6TBrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/459nec6TBrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/459nec6TBrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "459nec6TBrk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dI6T2aMoLHP_oJOjOEFJScsakNo",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-21T15:59:40Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Что такое рифма? /22.09.2020/",
+        "description": "Тема урока: Что такое рифма?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H4SDcfcPYms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H4SDcfcPYms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H4SDcfcPYms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H4SDcfcPYms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H4SDcfcPYms"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cXyGm8AqpsEnIeB3pf5WEnQgsZ4",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-21T16:02:58Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Число и цифра 8 /22.09.2020/",
+        "description": "Тема урока: Число и цифра 8\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MrXYb7vIG_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MrXYb7vIG_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MrXYb7vIG_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MrXYb7vIG_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MrXYb7vIG_0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tHbTnguZ1U4Ygi8AtJTlSe9HiPM",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-21T16:06:26Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 1 класс.  Не киесің? /22.09.2020/",
+        "description": "Тема урока: Не киесің?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0UQykpkU4OY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0UQykpkU4OY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0UQykpkU4OY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0UQykpkU4OY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0UQykpkU4OY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "86N25H_VBugnNcep4AWYFKQX6m0",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-09-22T16:09:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Обучение грамоте. 1 класс. Что умеют гласные звуки? /23.09.2020/",
+        "description": "Тема урока: Что умеют гласные звуки?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/piDTTRTHPMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/piDTTRTHPMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/piDTTRTHPMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/piDTTRTHPMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "piDTTRTHPMI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8olfX7RzRRnQdBxU2yMCyKhq1As",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2020-09-22T16:12:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 1 класс. Число и цифра 9 /23.09.2020/",
+        "description": "Тема урока: Число и цифра 9\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V_fgeBMkmB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V_fgeBMkmB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V_fgeBMkmB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V_fgeBMkmB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V_fgeBMkmB0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vS-AIhSLtLHnc-sfkwBD0Z9XSaY",
+      "id": "UExESXdOSlljSVE3NTE5d0RuOXlSOURQelRxV3pRbC1OVC4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2020-09-22T16:15:40Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 1 класс. My friends /23.09.2020/",
+        "description": "Тема урока: My friends\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MgYG8aUMwJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MgYG8aUMwJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MgYG8aUMwJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MgYG8aUMwJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ7519wDn9yR9DPzTqWzQl-NT",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MgYG8aUMwJo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 448,
+    "resultsPerPage": 50
+  }
+}

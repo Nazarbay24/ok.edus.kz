@@ -1,0 +1,2211 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "f6grVpa-0C-EplPKw93aShTs-ms",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xlb5FrAbP4Px1xylP4E-TyCVaPQ",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-31T13:30:07Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 9 класс. Повторение курса геометрии 8 класса /01.09.2020/",
+        "description": "Тема урока: Повторение курса геометрии 8 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1sfNrEwIW70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1sfNrEwIW70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1sfNrEwIW70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1sfNrEwIW70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1sfNrEwIW70"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VzfIQctlU-kzTCZz-tqYpT_bZF4",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-31T13:31:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 9 класс. Клеточные структуры. Строение и выполняемые функции /01.09.2020/",
+        "description": "Тема урока: Клеточные структуры. Строение и выполняемые функции\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hs2iIsMFQZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hs2iIsMFQZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hs2iIsMFQZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hs2iIsMFQZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hs2iIsMFQZ8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XJ__qdE0fPnFgT3Cim_Btw-yXEY",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T13:32:50Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык.  9 класс. Hobbies and qualities /01.09.2020/",
+        "description": "Тема урока: Hobbies and qualities\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QUj5SzpHY58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QUj5SzpHY58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QUj5SzpHY58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QUj5SzpHY58/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QUj5SzpHY58"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sDgEDCN2AKWZYF_7VP3COitbNHo",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:37:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 9 класс. У. Шекспир. История и особенности жанра сонета /01.09.2020/",
+        "description": "Тема урока: У. Шекспир. История и особенности жанра сонета \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/afYZmEb3Y9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/afYZmEb3Y9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/afYZmEb3Y9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/afYZmEb3Y9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "afYZmEb3Y9k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J2CAb8KlJj0OWP19AuoJC_hIYtk",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-08-31T20:42:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 9 класс. Механическое движение /01.09.2020/",
+        "description": "Тема урока: Механическое движение \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/niLmMGBQksI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/niLmMGBQksI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/niLmMGBQksI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/niLmMGBQksI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "niLmMGBQksI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JxaVWf7XvYo6RkF_sJJL8m7Fnpw",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T22:51:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 9 класс. Повторение курса алгебры 8 класса /02.09.2020/",
+        "description": "Тема урока: Повторение курса алгебры 8 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JoOtO0Iz4bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JoOtO0Iz4bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JoOtO0Iz4bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JoOtO0Iz4bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JoOtO0Iz4bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JoOtO0Iz4bk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h0EXuiKS7d_6WOQHYOcnC1dMMFs",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-01T22:52:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 9 класс. Конфликт. Сочинительные союзы, их типы /02.09.2020/",
+        "description": "Тема урока: Конфликт. Сочинительные союзы, их типы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eCyDff1gP2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eCyDff1gP2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eCyDff1gP2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eCyDff1gP2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eCyDff1gP2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eCyDff1gP2E"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_toHSJ8nUm4R8zCNLYPRteR0CzM",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-01T22:54:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 9 класс. Қазақ жазуының даму жолы. «Күлтегін» жыры /02.09.2020/",
+        "description": "Тема урока: Қазақ жазуының даму жолы. «Күлтегін» жыры\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DAr9WZhuMCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DAr9WZhuMCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DAr9WZhuMCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DAr9WZhuMCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DAr9WZhuMCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DAr9WZhuMCk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G0OE7iypzr2f5KXTbEXu6D-YUUk",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-01T22:56:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 9 класс. Электролиты. Неэлектролиты /02.09.2020/",
+        "description": "Тема урока: Электролиты. Неэлектролиты\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HrGs3RvRKQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HrGs3RvRKQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HrGs3RvRKQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HrGs3RvRKQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HrGs3RvRKQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HrGs3RvRKQQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cqew_urPogspOwXj3a6PYym4zuc",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:53:02Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 9 класс. Социально-экономическая ситуация в Казахстане в начале XX века",
+        "description": "Тема урока: Социально-экономическая ситуация в Казахстане в начале XX века /03.09.2020/\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w5pyeXyTi6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w5pyeXyTi6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w5pyeXyTi6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w5pyeXyTi6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w5pyeXyTi6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w5pyeXyTi6A"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bswCQOQ0wLBqUO9AMHwirl3WltE",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:55:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 9 класс. Свойства информации /03.09.2020/",
+        "description": "Тема урока: Свойства информации\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BWsrwFV6dwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BWsrwFV6dwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BWsrwFV6dwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BWsrwFV6dwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BWsrwFV6dwg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BWsrwFV6dwg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JRKCa-A_MOWPPYA8N4-Vy-ZzIv0",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:01:37Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 9 класс. Повторение курса геометрии 8 класса /03.09.2020/",
+        "description": "Тема урока: Повторение курса геометрии 8 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hMVC5-oRPX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hMVC5-oRPX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hMVC5-oRPX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hMVC5-oRPX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hMVC5-oRPX4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hMVC5-oRPX4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YUuE3EVF619M3A-4SCgenthI9Fw",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:06:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 9 класс. Present perfect simple v/s present perfect continuous /03.09.2020/",
+        "description": "Тема урока: Present perfect simple v/s present perfect continuous \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LVFNEOh4iLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LVFNEOh4iLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVFNEOh4iLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LVFNEOh4iLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LVFNEOh4iLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LVFNEOh4iLw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yNXU1QOk5z9Kv6ug7MkMUR-FBOk",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:09:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 9 класс. Загадка Шекспира. Сонеты /03.09.2020/",
+        "description": "Тема урока: Загадка Шекспира. Сонеты \n\n С понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VevSbYBCtsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VevSbYBCtsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VevSbYBCtsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VevSbYBCtsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VevSbYBCtsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VevSbYBCtsE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "whq_PHLxBmPgV_ci9P97yaOJnHA",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:16:15Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 9 класс. Вычисление линейного увеличения клеток",
+        "description": "Тема урока: Вычисление линейного увеличения клеток. Актуальный размер клетки (органеллы) и фактический размер изображения /04.09.2020/\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hU9e608vTPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hU9e608vTPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hU9e608vTPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hU9e608vTPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hU9e608vTPA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i16TMbIF8tqMyiITKGB7_h3AIZY",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:25:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 9 класс. Методы географических исследований. Исследования казахстанских географов",
+        "description": "Тема урока: Методы географических исследований. Исследования казахстанских географов /04.09.2020/\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dJhNI904vYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dJhNI904vYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dJhNI904vYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dJhNI904vYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dJhNI904vYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dJhNI904vYA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pFlLHNGALnaFLODkL1VG6xjXWWQ",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:26:37Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 9 класс. Векторы и действия над ними. Проекция вектора на координатные оси /04.09.2020/",
+        "description": "Тема урока: Векторы и действия над ними. Проекция вектора на координатные оси \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vlkiUYfnHAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vlkiUYfnHAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vlkiUYfnHAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vlkiUYfnHAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vlkiUYfnHAQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZYUZpweTWbhYeAYtrgqVLiGNBxY",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:27:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 9 класс. Каковы предпосылки и причины Первой Мировой войны? /04.09.2020/",
+        "description": "Тема урока: Каковы предпосылки и причины Первой Мировой войны?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lJPhyv4i6ZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lJPhyv4i6ZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lJPhyv4i6ZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lJPhyv4i6ZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lJPhyv4i6ZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lJPhyv4i6ZM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jgVspjUrpCtf7zEaMV4Yxy5vPXY",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:40:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 9 класс. Теория электролитической диссоциации /04.09.2020/",
+        "description": "Тема урока: Теория электролитической диссоциации\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1AjIQRPiEmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1AjIQRPiEmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1AjIQRPiEmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1AjIQRPiEmI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1AjIQRPiEmI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1AjIQRPiEmI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IwHKczBFZv7VxeSLAByxatCIeS0",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:51:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 9 класс.  Конфликт. Сочинительные союзы, их типы /07.09.2020/",
+        "description": "Тема урока: Конфликт. Сочинительные союзы, их типы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/APqE9VFoo7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/APqE9VFoo7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/APqE9VFoo7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/APqE9VFoo7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/APqE9VFoo7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "APqE9VFoo7g"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bPQK6wo3ULwGYIc_DWf06s-dO4Q",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:54:51Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 9 класс. Қазақ жазуының даму жолы. «Күлтегін» жыры /07.09.2020/",
+        "description": "Тема урока: Қазақ жазуының даму жолы. «Күлтегін» жыры\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tDy6sBCEAR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tDy6sBCEAR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tDy6sBCEAR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tDy6sBCEAR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tDy6sBCEAR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tDy6sBCEAR4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zi9kXLus3KyLy_obyL3wrAZtXSU",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:56:07Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 9 класс. Современные актуальные проблемы исследования географической науки /07.09.2020/",
+        "description": "Тема урока:  Современные актуальные проблемы исследования географической науки\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/geYsvdNPQdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/geYsvdNPQdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/geYsvdNPQdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/geYsvdNPQdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/geYsvdNPQdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "geYsvdNPQdk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0NDxzDJ4zo30LVJGXvKt6zmnM-I",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:57:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 9 класс. Повторение курса алгебры 8 класса /07.09.2020/",
+        "description": "Тема урока: Повторение курса алгебры 8 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/utRwWPVx-mY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/utRwWPVx-mY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/utRwWPVx-mY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/utRwWPVx-mY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/utRwWPVx-mY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "utRwWPVx-mY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w4C3fXzMvQfxNu-bp0c2yqcWO8c",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:58:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 9 класс. Социально-экономическая ситуация в Казахстане в начале XX века",
+        "description": "Тема урока: Социально-экономическая ситуация в Казахстане в начале XX века /07.09.2020/\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XaxISkN2Wkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XaxISkN2Wkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XaxISkN2Wkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XaxISkN2Wkw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XaxISkN2Wkw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XaxISkN2Wkw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XqLc8kaKSIta8vjw6AE2iULtqx8",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:59:03Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 9 класс. Использование бинарной номенклатуры для описания различных видов /08.09.2020/",
+        "description": "Тема урока:  Использование бинарной номенклатуры для описания различных видов \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jvko_OABZEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jvko_OABZEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jvko_OABZEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jvko_OABZEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jvko_OABZEM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_79QHDf280_4y2fL9U6_9i9DNW8",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-07T21:00:24Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 9 класс. Прямолинейное равнопеременное движение. Ускорение /08.09.2020/",
+        "description": "Тема урока: Прямолинейное равнопеременное движение. Ускорение \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5XeVNWFVmLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5XeVNWFVmLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5XeVNWFVmLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5XeVNWFVmLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5XeVNWFVmLo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pALK1F-XFoXazfOaAm-pcq3UKbU",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-07T21:01:35Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 9 класс. Векторы /08.09.2020/",
+        "description": "Тема урока: Векторы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M9Texnq9LGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M9Texnq9LGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M9Texnq9LGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M9Texnq9LGM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M9Texnq9LGM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M9Texnq9LGM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7Tnye30gk4SWcBm_9h-RsK2YppM",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-07T21:02:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 9 класс. Идеал красоты в сонетах У. Шекспира /08.09.2020/",
+        "description": "Тема урока: Идеал красоты в сонетах У. Шекспира\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2T2x2AVvk24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2T2x2AVvk24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2T2x2AVvk24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2T2x2AVvk24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2T2x2AVvk24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2T2x2AVvk24"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZDuV1bClgqnkIks8uZaoF-qfF-0",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-07T21:03:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 9 класс. Hobbies and qualities /08.09.2020/",
+        "description": "Тема урока: Hobbies and qualities\n\n С понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qb6uC49Cbys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qb6uC49Cbys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qb6uC49Cbys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qb6uC49Cbys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qb6uC49Cbys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qb6uC49Cbys"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6xRZTg4tu6Efd4m7IIz4n4yn0nY",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:56:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 9 класс. Конфликт. Сочинительные союзы, их типы /09.09.2020/",
+        "description": "Тема урока: Конфликт. Сочинительные союзы, их типы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t7ChTxAIiC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t7ChTxAIiC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7ChTxAIiC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t7ChTxAIiC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t7ChTxAIiC8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OR8pcJPOXzFXGI-atmDC35n-ejg",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:59:05Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 9 класс. Жолың болсын, жолаушы! «Қырықтың бірі - қыдыр...» /09.09.2020/",
+        "description": "Тема урока: Жолың болсын, жолаушы! «Қырықтың бірі - қыдыр...»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ezUbc79pNUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ezUbc79pNUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezUbc79pNUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ezUbc79pNUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ezUbc79pNUI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G1c6KrFe2bCrzkhkfmtjKB3yKMM",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:21:51Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 9 класс. Повторение курса алгебры 8 класса /09.09.2020/",
+        "description": "Тема урока: Повторение курса алгебры 8 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7R5YsxBFjRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7R5YsxBFjRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7R5YsxBFjRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7R5YsxBFjRQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7R5YsxBFjRQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Geq6rU3vimuPq3JgEhZIsc4g4og",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:24:15Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 9 класс. Электролитическая диссоциация кислот, щелочей и солей",
+        "description": "Тема урока: Электролитическая диссоциация кислот, щелочей и солей. Определение pH растворов кислот, щелочей /09.09.2020/\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jmuSRIJR5e8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jmuSRIJR5e8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jmuSRIJR5e8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jmuSRIJR5e8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jmuSRIJR5e8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aJIc4hqdtI_9WLGilDvT2kg6YGs",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:45:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 9 класс. Свойства информации /10.09.2020/",
+        "description": "Тема урока: Свойства информации\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kpepILe2o0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kpepILe2o0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kpepILe2o0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kpepILe2o0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kpepILe2o0w"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y7QztzWXwU-uogyLDzrYuEaeH68",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:48:51Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 9 класс. Национально-освободительное движение 1916 г. в Казахстане /10.09.2020/",
+        "description": "Тема урока: Национально-освободительное движение 1916 г. в Казахстане \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nPsDpmwbnds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nPsDpmwbnds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nPsDpmwbnds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nPsDpmwbnds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nPsDpmwbnds"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lsnQJWUOmum9ahbhwjF7lqBFDWA",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:45:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 9 класс. Павел Васильев - «степи казахской русский сокол» /10.09.2020/",
+        "description": "Тема урока: Павел Васильев - «степи казахской русский сокол»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ylwBMA5FrUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ylwBMA5FrUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ylwBMA5FrUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ylwBMA5FrUE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ylwBMA5FrUE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RGuX1_JzapDtpugbeo5qkgFSCAY",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:48:02Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 9 класс. Hobbies and qualities /10.09.2020/",
+        "description": "Тема урока: Hobbies and qualities\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__bqdSGSBVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__bqdSGSBVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__bqdSGSBVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/__bqdSGSBVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "__bqdSGSBVA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VbIKmLaLp2eJcVu1-lEBfqmWRqA",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:50:36Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 9 класс. Векторы /10.09.2020/",
+        "description": "Тема урока: Векторы \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/daP7CNM6kSc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/daP7CNM6kSc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/daP7CNM6kSc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/daP7CNM6kSc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "daP7CNM6kSc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wNGnHQ0b-Tzab4JUl2DmYBueVdA",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:14:10Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 9 класс. Особенности номинации географических объектов и явлений /11.09.2020/",
+        "description": "Тема урока: Особенности номинации географических объектов и явлений \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TGPpDyZEQcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TGPpDyZEQcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TGPpDyZEQcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TGPpDyZEQcU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TGPpDyZEQcU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jYUZ9Om48T2Rv6bgj_nZckmOKXA",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:16:21Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 9 класс. Экспоненциальные и сигмоидные кривые роста популяции /11.09.2020/",
+        "description": "Тема урока:  Экспоненциальные и сигмоидные кривые роста популяции\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Osw4iIpy3xM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Osw4iIpy3xM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Osw4iIpy3xM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Osw4iIpy3xM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Osw4iIpy3xM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DIFYXTszJtLdMa5aa9HesgTY4oU",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:18:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 9 класс. Степень диссоциации. Сильные и слабые электролиты /11.09.2020/",
+        "description": "Тема урока: Степень диссоциации. Сильные и слабые электролиты\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pJP5LFkct9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pJP5LFkct9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pJP5LFkct9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pJP5LFkct9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pJP5LFkct9k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UAc6tlcy_fhCBOm0Xq5e36UoB5E",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:20:47Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 9 класс. Скорость и перемещение при прямолинейном равноускоренном движении /11.09.2020/",
+        "description": "Тема урока: Скорость и перемещение при прямолинейном равноускоренном движении\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CIb6h5iojWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CIb6h5iojWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CIb6h5iojWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CIb6h5iojWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CIb6h5iojWc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q0VyCAPNTbbzmkE8jRjWHexuFJc",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:22:41Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 9 класс. Как научные открытия и новые технологии первой половины XX века повлияли",
+        "description": "Тема урока: Как научные открытия и новые технологии первой половины XX века повлияли на ход Первой мировой войны? /11.09.2020/\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vi5oCzGPJi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vi5oCzGPJi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vi5oCzGPJi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vi5oCzGPJi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vi5oCzGPJi4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "33Task-dBUVVCx3eUrnmZVlHy0o",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:18:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 9 класс.  Что такое миротворчество. Подчинительные союзы, их типы/14.09.2020/",
+        "description": "Тема урока: Что такое миротворчество. Подчинительные союзы, их типы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2sIg6oBZVYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2sIg6oBZVYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2sIg6oBZVYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2sIg6oBZVYo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2sIg6oBZVYo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U8yUB42GdaDGT1__g9I41ok5bxY",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:20:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 9 класс. Неравенства /14.09.2020/",
+        "description": "Тема урока: Неравенства\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/80ROFzkjqms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/80ROFzkjqms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/80ROFzkjqms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/80ROFzkjqms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "80ROFzkjqms"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OpNOJQYcmwUCfQJss7oXeRuhqvc",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:23:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 9 класс. Академические формы представления результатов исследования /14.09.2020/",
+        "description": "Тема урока: Академические формы представления результатов исследования \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UBujSS3n0_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UBujSS3n0_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UBujSS3n0_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UBujSS3n0_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UBujSS3n0_U"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qdw4O-mpkDzJyrpYT9WYeHbJHnk",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:26:29Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 9 класс. Национально- освободительное движение 1916 г. в Казахстане /14.09.2020/",
+        "description": "Тема урока: Национально- освободительное движение 1916 г. в Казахстане\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-HUesTxWt8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-HUesTxWt8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HUesTxWt8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-HUesTxWt8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-HUesTxWt8A"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GhYB_MReXXE6TUcAoXRcRyn9usg",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:28:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 9 класс. Жолаушы тасымалы /14.09.2020/",
+        "description": "Тема урока: Жолаушы тасымалы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3TGMaOzlJeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3TGMaOzlJeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3TGMaOzlJeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3TGMaOzlJeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3TGMaOzlJeM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9BJz2hivOqJa5zwXKcK-7bOr2vs",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-14T23:58:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 9 класс. П. Васильев. «Струны воспоминаний». Лирика /15.09.2020/",
+        "description": "Тема урока: П. Васильев. «Струны воспоминаний». Лирика\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f_ZhAO9Gw_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f_ZhAO9Gw_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f_ZhAO9Gw_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f_ZhAO9Gw_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f_ZhAO9Gw_0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FsiktwLi8BZJxUJEiS5qymEaZLw",
+      "id": "UExESXdOSlljSVE3NjJNdVRLVWxrS2VqQ25rcnVWUHk5Vi5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-15T00:00:46Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 9 класс. Turning your hobbe into a business /15.09.2020/",
+        "description": "Тема урока: Turning your hobbe into a business\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J9DEyCVMwJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J9DEyCVMwJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J9DEyCVMwJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J9DEyCVMwJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ762MuTKUlkKejCnkruVPy9V",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J9DEyCVMwJ8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 776,
+    "resultsPerPage": 50
+  }
+}

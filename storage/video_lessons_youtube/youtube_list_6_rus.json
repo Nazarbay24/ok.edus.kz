@@ -1,0 +1,2171 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "7WMI39zPwrgR3sFczSmiJGatNX8",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gGtcPMEblFFmO28qMuy8-F1trSk",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-31T13:44:47Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 6 класс. Мифы древних народов. Античная культура /01.09.2020/",
+        "description": "Тема урока: Мифы древних народов. Античная культура\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dzXe0Xmh8GE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dzXe0Xmh8GE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dzXe0Xmh8GE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dzXe0Xmh8GE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dzXe0Xmh8GE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fRC9IOoO2466-ZQBiWMZr00Odn0",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:50:05Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 6 класс. Что такое эргономика? /01.09.2020/",
+        "description": "Тема урока: Что такое эргономика?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UqRsfJXbPcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UqRsfJXbPcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UqRsfJXbPcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UqRsfJXbPcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UqRsfJXbPcc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rKNefogmT5AoEU4ceC2uxsIcdCA",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:51:49Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Повторение курса математики 5 класса /01.09.2020/",
+        "description": "Тема урока: Повторение курса математики 5 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JppJPgfG2kc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JppJPgfG2kc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JppJPgfG2kc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JppJPgfG2kc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JppJPgfG2kc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zkJyLfimvdHRNrWhlrAUnp9XbBw",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-31T18:00:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 6 класс. Students around the world /01.09.2020/",
+        "description": "Тема урока: Students around the world\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N6-Ckzph-QQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N6-Ckzph-QQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6-Ckzph-QQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N6-Ckzph-QQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N6-Ckzph-QQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9qp_jZujRyw4h2U0f5GzQ4VoVGU",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:22:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 6 класс. Вводный урок /02.09.2020/",
+        "description": "Тема урока: Вводный урок\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xj74a9Kq1nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xj74a9Kq1nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xj74a9Kq1nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xj74a9Kq1nk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xj74a9Kq1nk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xj74a9Kq1nk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Sl3i8syu6FrFuEs_Tj7DejpDo40",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:24:44Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 6 класс. Сложные имена существительные /02.09.2020/",
+        "description": "Тема урока: Сложные имена существительные\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/96MK-Ywt8yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/96MK-Ywt8yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/96MK-Ywt8yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/96MK-Ywt8yw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/96MK-Ywt8yw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "96MK-Ywt8yw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MTY1KvITLeo_F0vbzks7eS8WcQY",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-01T22:59:10Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Повторение курса математики 5 класса /02.09.2020/",
+        "description": "Тема урока: Повторение курса математики 5 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c_aXmQBI59I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c_aXmQBI59I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_aXmQBI59I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c_aXmQBI59I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c_aXmQBI59I"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ue5kFWlJ-PRQmpGCzfhpz9Y_0aY",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:00:41Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 6 класс. Отбасы күнін тойладық /02.09.2020/",
+        "description": "Тема урока: Отбасы күнін тойладық\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kK-qk98HgOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kK-qk98HgOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kK-qk98HgOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kK-qk98HgOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kK-qk98HgOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kK-qk98HgOE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xjl14W6iyMzzV3qvG4YpYUWMpbw",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:31:07Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Повторение курса математики 5 класса /03.09.2020/",
+        "description": "Тема урока: Повторение курса математики 5 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Z6gS5ATPNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Z6gS5ATPNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Z6gS5ATPNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Z6gS5ATPNo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Z6gS5ATPNo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0Z6gS5ATPNo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kRZfw4YWvcyekEk7LL7qFgsqnp0",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:39:17Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 6 класс. Special schools. Classroom objects /03.09.2020/",
+        "description": "Тема урока: Special schools. Classroom objects\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gJ2Kn8_qlak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gJ2Kn8_qlak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gJ2Kn8_qlak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gJ2Kn8_qlak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gJ2Kn8_qlak"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L-rvjMUgyvZUZ3D4t0kCNKIMgIQ",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:41:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 6 класс. Почему Римская империя пала на Западе? /03.09.2020/",
+        "description": "Тема урока: Почему Римская империя пала на Западе?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sf0apudc6-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sf0apudc6-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sf0apudc6-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sf0apudc6-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sf0apudc6-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sf0apudc6-E"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f0sg1hoNNeNG2jLWbD1U7qbM6w4",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:11:24Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 6 класс. Роль науки. Вопрос исследования /04.09.2020/",
+        "description": "Тема урока: Роль науки. Вопрос исследования\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXD5HIdRxBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXD5HIdRxBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXD5HIdRxBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yXD5HIdRxBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yXD5HIdRxBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yXD5HIdRxBM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MqOG0t00NClG79YYOg-dorQwH1g",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:29:58Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 6 класс. Боги и герои. Мифы о подвигах Геракла /04.09.2020/",
+        "description": "Тема урока: Боги и герои. Мифы о подвигах Геракла\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qgAsjcIeZ6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qgAsjcIeZ6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qgAsjcIeZ6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qgAsjcIeZ6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qgAsjcIeZ6M"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wu11FEFk_YBIKD5jFFODkokPZnw",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:40:06Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Повторение курса математики 5 класса /04.09.2020/",
+        "description": "Тема урока: Повторение курса математики 5 класса\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UGmUXodBhSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UGmUXodBhSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UGmUXodBhSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UGmUXodBhSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UGmUXodBhSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UGmUXodBhSw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vDq6aXFDU3bSIG-DJJZ0nnSvTQg",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:15:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 6 класс. Виды путешествий. Сложные имена существительные /07.09.2020/",
+        "description": "Тема урока: Виды путешествий. Сложные имена существительные \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CrEiN6xERdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CrEiN6xERdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CrEiN6xERdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CrEiN6xERdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CrEiN6xERdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CrEiN6xERdU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DbRe5VXcHo499966Hejg1gsDXNA",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:18:29Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Отношение двух чисел. Процентное отношение двух чисел /07.09.2020/",
+        "description": "Тема урока: Отношение двух чисел. Процентное  отношение двух чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b2Uq2e57ovc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b2Uq2e57ovc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b2Uq2e57ovc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b2Uq2e57ovc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b2Uq2e57ovc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b2Uq2e57ovc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b_aLdO31UGdJdfzWCYTKg_C3De4",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:19:47Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 6 класс. Раннесредневековые государства на территории Казахстана /07.09.2020/",
+        "description": "Тема урока: Раннесредневековые государства на территории Казахстана\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUzcFO07734/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUzcFO07734/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUzcFO07734/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kUzcFO07734/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kUzcFO07734/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kUzcFO07734"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j718mEzNpk-p6oOXRT3t7_GhA6M",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:21:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 6 класс. Отбасы күнін тойладық /07.09.2020/",
+        "description": "Тема урока: Отбасы күнін тойладық\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m3a8MdndsS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m3a8MdndsS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m3a8MdndsS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m3a8MdndsS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m3a8MdndsS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m3a8MdndsS8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8wRA5OxulKUB_iNhtk09tDUUaC4",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:39:40Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 6 класс. Миф о Прометее /08.09.2020/",
+        "description": "Тема урока: Миф о Прометее\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-KPRFn127M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-KPRFn127M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-KPRFn127M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-KPRFn127M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D-KPRFn127M"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r5E53i1ztuzTIOSt0ljZgog8J5w",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:40:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Отношение двух чисел /08.09.2020/",
+        "description": "Тема урока: Отношение двух чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S9lU2qo1v14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S9lU2qo1v14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S9lU2qo1v14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S9lU2qo1v14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S9lU2qo1v14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S9lU2qo1v14"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KPYG0hza5can7y-YJToiuc2L93U",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:41:54Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 6 класс. What do you need for school? /08.09.2020/",
+        "description": "Тема урока: What do you need for school?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ofswLdCgbr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ofswLdCgbr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ofswLdCgbr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ofswLdCgbr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ofswLdCgbr0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N1Ual6ZezMMNEMf5KViX0hDq6nY",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:43:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 6 класс. Что такое эргономика? /08.09.2020/",
+        "description": "Тема урока: Что такое эргономика?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hLDMRDwh_pE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hLDMRDwh_pE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hLDMRDwh_pE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hLDMRDwh_pE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hLDMRDwh_pE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lqMY-q3po7Y5OBNdlvHMN-eP2Eg",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:28:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 6 класс. Әке көрген оқ жонар /09.09.2020/",
+        "description": "Тема урока: Әке көрген оқ жонар\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k_eWb0iYZ_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k_eWb0iYZ_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k_eWb0iYZ_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k_eWb0iYZ_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k_eWb0iYZ_0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GMQQsmOoNG86cmexIGdDKhyCpJ4",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:26:57Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 6 класс. Раннесредневековые государства на территории Казахстана /09.09.2020/",
+        "description": "Тема урока: Раннесредневековые государства на территории Казахстана\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Ak_dl9SaUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Ak_dl9SaUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Ak_dl9SaUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Ak_dl9SaUE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2Ak_dl9SaUE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WIP790b8D3v8C6wyJfaMtYFcWEc",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:29:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 6 класс. История первых путешествий /09.09.2020/",
+        "description": "Тема урока: История первых путешествий\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iQqOLz6-NSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iQqOLz6-NSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iQqOLz6-NSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iQqOLz6-NSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iQqOLz6-NSI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "agx_8gM5XwRzs8WQ-ZpE0TGmAi0",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:31:37Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Пропорция /09.09.2020/",
+        "description": "Тема урока: Пропорция\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i6GrHUk9be8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i6GrHUk9be8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i6GrHUk9be8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i6GrHUk9be8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i6GrHUk9be8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3jpqyqb-xw3RtyOeeuJD9hCPeR8",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:25:35Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Основное свойство пропорции /10.09.2020/",
+        "description": "Тема урока: Основное свойство пропорции\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/die0NXmuRPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/die0NXmuRPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/die0NXmuRPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/die0NXmuRPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "die0NXmuRPI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F5D08A-PVDuEnXzkz3LfYDy9n-8",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-09T19:00:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 6 класс. Почему Римская империя сохранилась на Востоке? /10.09.2020/",
+        "description": "Тема урока: Почему Римская империя сохранилась на Востоке?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n1uBLWbiVbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n1uBLWbiVbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n1uBLWbiVbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n1uBLWbiVbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n1uBLWbiVbM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FSCxQ5j759OtFjvyITywtdEzF9Q",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-09T19:02:46Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 6 класс. School rules /10.09.2020/",
+        "description": "Тема урока: School rules\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CbzOdmbpMhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CbzOdmbpMhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CbzOdmbpMhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CbzOdmbpMhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CbzOdmbpMhM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R6HW6LopYypAQu3J3UglIoJXGUA",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:04:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Основное свойство пропорции /11.09.2020/",
+        "description": "Тема урока: Основное свойство пропорции\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cTn-NaiisFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cTn-NaiisFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cTn-NaiisFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cTn-NaiisFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cTn-NaiisFY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1dFLGh6i6RhhIy4_sXI8-Cx-c_A",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:07:02Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 6 класс. Планирование исследований. Сбор данных /11.09.2020/",
+        "description": "Тема урока: Планирование исследований. Сбор данных\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pjOcSalk1YA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pjOcSalk1YA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pjOcSalk1YA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pjOcSalk1YA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pjOcSalk1YA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sJ8V16RxjTQX6QV066CmQZ_z414",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-09-11T05:20:58Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 6 класс. Миф о Дедале и Икаре /11.09.2020/",
+        "description": "Тема урока: Миф о Дедале и Икаре\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sJ6TYK3GdBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sJ6TYK3GdBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sJ6TYK3GdBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sJ6TYK3GdBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sJ6TYK3GdBk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jN5E6dOX7WXtZPRxb5Lbdyp9mUQ",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-13T18:48:29Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 6 класс. Письменность древних тюрков /14.09.2020/",
+        "description": "Тема урока: Письменность древних тюрков\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/khD8JVryu9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/khD8JVryu9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/khD8JVryu9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/khD8JVryu9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "khD8JVryu9w"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zLnKT7uV9OfAgP5EihKIumTGubs",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-13T18:50:51Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Основное свойство пропорции /14.09.2020/",
+        "description": "Тема урока: Основное свойство пропорции\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ES-zXy0s9qg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ES-zXy0s9qg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ES-zXy0s9qg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ES-zXy0s9qg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ES-zXy0s9qg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NRSVIN7C4uelV7PlEBwYpiAJoEo",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-13T18:53:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 6 класс. Правописание слов с пол-, полу- /14.09.2020/",
+        "description": "Тема урока: Достопримечательности: природные чудеса Казахстана. Правописание слов с ПОЛ- и ПОЛУ-\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LCJhk0jSfoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LCJhk0jSfoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LCJhk0jSfoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LCJhk0jSfoo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LCJhk0jSfoo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MoEp8hs_XTd5ytqfWZd780TN2IA",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-13T18:55:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 6 класс. Ата-анамды үлгі тұтамын /14.09.2020/",
+        "description": "Тема урока: Ата-анамды үлгі тұтамын\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FUkipHnyboM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FUkipHnyboM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FUkipHnyboM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FUkipHnyboM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FUkipHnyboM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dEio1AZSlbGXjkjHmgpmfJmicvs",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:16:13Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Прямо пропорциональная зависимость /15.09.2020/",
+        "description": "Тема урока: Прямо пропорциональная зависимость\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PQR9Z9aHVD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PQR9Z9aHVD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PQR9Z9aHVD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PQR9Z9aHVD4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PQR9Z9aHVD4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PZpjYugwqDv-oduuZo0el2Qp14c",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:18:01Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 6 класс. История развития вычислительной техники /15.09.2020/",
+        "description": "Тема урока: История развития вычислительной техники\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WL8g9SZUsw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WL8g9SZUsw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WL8g9SZUsw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WL8g9SZUsw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WL8g9SZUsw0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mEmP2w_4sdRazUBIIeoDYNph-GY",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:19:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 6 класс. Миф об Актеоне /15.09.2020/",
+        "description": "Тема урока: Миф об Актеоне\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PwF2O-eHMQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PwF2O-eHMQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PwF2O-eHMQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PwF2O-eHMQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PwF2O-eHMQk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZoH6Z9LCLQJ8FMsXMyYuZ_2M9jo",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:49:20Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 6 класс. Back to school /15.09.2020/",
+        "description": "Тема урока: Back to school\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RMd8ONBs0BU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RMd8ONBs0BU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RMd8ONBs0BU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RMd8ONBs0BU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RMd8ONBs0BU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZZrjbc2Qabe7bdDGuBeYkPM7ezQ",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:24:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Обратно пропорциональная зависимость /16.09.2020/",
+        "description": "Тема урока: Обратно пропорциональная зависимость \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eY1xDRScM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eY1xDRScM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eY1xDRScM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-eY1xDRScM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-eY1xDRScM8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_JP5q-tbqCWrLKUSKuuEptSJlgk",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:27:08Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 6 класс. Достопримечательности /16.09.2020/",
+        "description": "Тема урока: Достопримечательности \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UnVRuSpxOzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UnVRuSpxOzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UnVRuSpxOzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UnVRuSpxOzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UnVRuSpxOzA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Sq_GPr-PYHCmI_Axo0h4oJWyS70",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:29:09Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 6 класс. Мұхтар Әуезов – қазақтың ұлы жазушысы /16.09.2020/",
+        "description": "Тема урока: Мұхтар Әуезов – қазақтың ұлы жазушысы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IofuX8ypMF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IofuX8ypMF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IofuX8ypMF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IofuX8ypMF4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IofuX8ypMF4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JMZVTRn5GBxb7iRS1qB1NN9beSA",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:34:07Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 6 класс. Письменность древних тюрков /16.09.2020/",
+        "description": "Тема урока: Письменность древних тюрков\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQLVphA28VQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQLVphA28VQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQLVphA28VQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FQLVphA28VQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FQLVphA28VQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0vh_RDIhHkkcj7czyHXcOA7a1Tg",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:37:58Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 6 класс. Everyday English. Asking for and giving directions /17.09.2020/",
+        "description": "Тема урока: Everyday English. Asking  for and giving  directions \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BKWNHMxjJI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BKWNHMxjJI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BKWNHMxjJI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BKWNHMxjJI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BKWNHMxjJI4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qitjd_vjNzKSUVxEAVnP8MWc4KM",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:39:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 6 класс. Почему Византия направила посла к тюркскому кагану в 568 г. /17.09.2020/",
+        "description": "Тема урока: Почему в 568 году Византия направила посла к тюркскому кагану Истеми?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMFp8QMDgP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMFp8QMDgP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMFp8QMDgP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fMFp8QMDgP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fMFp8QMDgP8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ovdqkwyjTpLXbWPK-R3HFIZAqe8",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:41:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Решение задач с применением прямой и обратной пропорциональностями /17.09.2020/",
+        "description": "Тема урока: Решение задач с применением прямой и обратной пропорциональностями\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IB5ynTLWgcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IB5ynTLWgcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IB5ynTLWgcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IB5ynTLWgcI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IB5ynTLWgcI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LKQLV6Jp0AIYyosryiuUJa-QpEI",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:03:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 6 класс. Решение текстовых задач с помощью пропорции /18.09.2020/",
+        "description": "Тема урока: Решение текстовых  задач с помощью пропорции \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oPILKJXPVTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oPILKJXPVTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oPILKJXPVTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oPILKJXPVTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oPILKJXPVTI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FW9w3dbMyD_5T6c7jlQMIPEDvB8",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:04:57Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 6 класс. Е. В. Курдаков «Псы Актеона» /18.09.2020/",
+        "description": "Тема урока: Е. В. Курдаков «Псы Актеона»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hE1pZjP4INo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hE1pZjP4INo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hE1pZjP4INo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hE1pZjP4INo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hE1pZjP4INo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BqMBv5_cc70jXqm1kbtNgx_n2Ks",
+      "id": "UExESXdOSlljSVE3NHVlUk5UMlhObGEtUEFQeGhzN05IRy44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:06:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 6 класс. Анализ данных. Вывод и обсуждение /18.09.2020/",
+        "description": "Тема урока: Анализ данных. Вывод и обсуждение\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jrjzffn-1vU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jrjzffn-1vU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jrjzffn-1vU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jrjzffn-1vU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ74ueRNT2XNla-PAPxhs7NHG",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jrjzffn-1vU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 581,
+    "resultsPerPage": 50
+  }
+}

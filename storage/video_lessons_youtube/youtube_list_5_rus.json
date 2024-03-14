@@ -1,0 +1,2176 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "h7S_gemi6IdtrKgDY4SxH1xaFTc",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5QOaaBkTVic6YaR1OiN2VS6jVvU",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-31T13:34:39Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 5 класс. Роль науки. Вопрос исследования /01.09.2020/",
+        "description": "Тема урока: Роль науки. Вопрос исследования\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1BBf-Sa7s0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1BBf-Sa7s0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1BBf-Sa7s0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1BBf-Sa7s0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1BBf-Sa7s0A"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AjqEcLExj6ko1qWhkHbVecL23h0",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-31T13:36:09Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 5 класс. Понятие о словесности. Особенности фольклора как жанра /01.09.2020/",
+        "description": "Тема урока: Понятие о словесности. Особенности фольклора как жанра\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_bHH_OM75kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_bHH_OM75kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_bHH_OM75kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_bHH_OM75kk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_bHH_OM75kk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gHIN34M5dYiXiWSFJUznK9fvB3c",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T13:37:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 5 класс. Информация вокруг нас /01.09.2020/",
+        "description": "Тема урока: Информация вокруг нас\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqKJe45R3uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqKJe45R3uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqKJe45R3uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EqKJe45R3uo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EqKJe45R3uo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VhYFS5wUhIJjen3HnmOnyRGrg14",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:09:44Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Натуральные числа и нуль /01.09.2020/",
+        "description": "Тема урока: Натуральные числа и нуль\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KgcdsP4Kyo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KgcdsP4Kyo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KgcdsP4Kyo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KgcdsP4Kyo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KgcdsP4Kyo4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cpTYGtZU-7sjtIRgsCazS_9s-zY",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-09-01T18:57:50Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Натуральные числа и нуль /02.09.2020/",
+        "description": "Тема урока: Натуральные числа и нуль\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t9UaraITzfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t9UaraITzfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t9UaraITzfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t9UaraITzfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t9UaraITzfs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bt_guWGhXsJkjAnCmksKOuabJ68",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:13:09Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 5 класс. Вводный урок /02.09.2020/",
+        "description": "Тема урока: Вводный урок\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uHGTFyUnKrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uHGTFyUnKrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uHGTFyUnKrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uHGTFyUnKrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uHGTFyUnKrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uHGTFyUnKrQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N737GwVbpmKz7XLFd43tGnoUyME",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:19:13Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 5 класс. Отбасы  ̶  бақыт мекені /02.09.2020/",
+        "description": "Тема урока: Отбасы  ̶  бақыт мекені\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hGaxUnZOYAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hGaxUnZOYAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hGaxUnZOYAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hGaxUnZOYAY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hGaxUnZOYAY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hGaxUnZOYAY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ag3E4YJRjMgIiMB9nEVM-4WsNYs",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:20:18Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 5 класс. Как появился первый человек? /02.09.2020/",
+        "description": "Тема урока: Как появился первый человек?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LuUaOLiwk1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LuUaOLiwk1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LuUaOLiwk1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LuUaOLiwk1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LuUaOLiwk1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LuUaOLiwk1I"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_87nEPpGM3UymHCq_0f70ltDs8Y",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:58:33Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 5 класс. Home and House /03.09.2020/",
+        "description": "Тема урока: Home and House\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XGs2MNNRDUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XGs2MNNRDUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XGs2MNNRDUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XGs2MNNRDUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XGs2MNNRDUY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XGs2MNNRDUY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6EvaO3KTJe839AABLLvaq4wqOWY",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:03:51Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 5 класс. Язык в жизни человека /03.09.2020/",
+        "description": "Тема урока: Язык в жизни человека\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HN_Sw3zTU7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HN_Sw3zTU7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HN_Sw3zTU7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HN_Sw3zTU7c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HN_Sw3zTU7c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HN_Sw3zTU7c"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oGKanxFtybFdL8Dqla3adHRP5o8",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:11:49Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Координатный луч /03.09.2020/",
+        "description": "Тема урока: Координатный луч. Изображение натуральных чисел и числа нуль на координатном луче\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hal2PXKiY08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hal2PXKiY08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hal2PXKiY08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hal2PXKiY08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hal2PXKiY08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hal2PXKiY08"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AOvoGwtoLyqBfyGcy9SeWnJoUFQ",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:08:50Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 5 класс. Жизнь древнейших людей /04.09.2020/",
+        "description": "Тема урока: Жизнь древнейших людей\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/edbm3eBOxxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/edbm3eBOxxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/edbm3eBOxxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/edbm3eBOxxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/edbm3eBOxxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "edbm3eBOxxo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7NlDNqcWOqKSlBZksSuRWw0pYCw",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:10:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 5 класс. Былины – эпические песни русского народа /04.09.2020/",
+        "description": "Тема урока: Былины – эпические песни русского народа. Художественные особенности былины\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YJncGpF2goo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YJncGpF2goo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YJncGpF2goo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YJncGpF2goo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YJncGpF2goo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TUvdTRdQ_rBc1IuX8z1bn8GT-ss",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:13:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Сравнение натуральных чисел. Двойное неравенство /04.09.2020/",
+        "description": "Тема урока: Сравнение натуральных чисел. Двойное неравенство\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5tjzOmFppQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5tjzOmFppQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5tjzOmFppQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5tjzOmFppQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5tjzOmFppQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5tjzOmFppQk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EBTQg4IOWf9_XdOSNO09dUQNmUA",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:39:49Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 5 класс. Язык и культура /07.09.2020/",
+        "description": "Тема урока: Язык и культура\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uwKvf_0UKbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uwKvf_0UKbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uwKvf_0UKbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uwKvf_0UKbI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uwKvf_0UKbI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uwKvf_0UKbI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LuJPnrCJJ6gtuf_NMYDoNn5hBHE",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:41:39Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Свойства арифметических действий /07.09.2020/",
+        "description": "Тема урока: Свойства арифметических действий\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HgK7BTQcQ9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HgK7BTQcQ9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HgK7BTQcQ9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HgK7BTQcQ9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HgK7BTQcQ9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HgK7BTQcQ9c"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dA5Lxz0ljCRkhQy_CFo_R3C0vVk",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:42:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 5 класс. Қазақ отбасының дәстүрлері /07.09.2020/",
+        "description": "Тема урока: Қазақ отбасының дәстүрлері\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIFD_4lNiQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIFD_4lNiQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIFD_4lNiQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rIFD_4lNiQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rIFD_4lNiQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rIFD_4lNiQg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BKWv-QrSPF6uI-VdC6MDXhxqGJU",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:43:44Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 5 класс. My room and furniture /07.09.2020/",
+        "description": "Тема урока: My room and furniture\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YArXeJ_K9Ks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YArXeJ_K9Ks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YArXeJ_K9Ks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YArXeJ_K9Ks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YArXeJ_K9Ks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YArXeJ_K9Ks"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s8Vk3EPtzUoqhF1U_w-lJrhYl-I",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:33:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 5 класс. Планирование исследования. Сбор данных /08.09.2020/",
+        "description": "Тема урока: Планирование исследования. Сбор данных \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZOY0wXhQmZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZOY0wXhQmZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZOY0wXhQmZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZOY0wXhQmZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZOY0wXhQmZs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XjxprfzJalrkZKebHoItNlgeHLw",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:35:20Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Арифметические действия над натуральными числами /08.09.2020/",
+        "description": "Тема урока:  Арифметические действия над натуральными числами\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QQUoTxN-p1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QQUoTxN-p1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QQUoTxN-p1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QQUoTxN-p1Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QQUoTxN-p1Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QQUoTxN-p1Q"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yf7SNftLEmCUGupGkV4sdACEPxo",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:36:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 5 класс. Былина «Илья Муромец и Соловей-разбойник» /08.09.2020/",
+        "description": "Тема урока: Былина «Илья Муромец и Соловей-разбойник»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YXZ51ATJn3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YXZ51ATJn3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YXZ51ATJn3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YXZ51ATJn3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YXZ51ATJn3g"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1caQki6PKLJs6BE4-J_tk6HQasg",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:37:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 5 класс. Информация вокруг нас /08.09.2020/",
+        "description": "Тема урока: Информация вокруг нас\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Krp2kpZ93a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Krp2kpZ93a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Krp2kpZ93a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Krp2kpZ93a8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Krp2kpZ93a8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QCRg-JKY-0Qj1ldnFz4v_tzKjyY",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-08T17:46:03Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Арифметические действия над натуральными /09.09.2020/",
+        "description": "Тема урока: Арифметические действия над натуральными \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UhT45UXpK4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UhT45UXpK4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UhT45UXpK4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UhT45UXpK4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UhT45UXpK4E"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "znDhMEPJpsNS67mDdjx1gfoSkrs",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-08T17:48:16Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 5 класс. Жизнь древнейших людей /09.09.2020/",
+        "description": "Тема урока: Жизнь древнейших людей\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1oxUUat7Hnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1oxUUat7Hnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1oxUUat7Hnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1oxUUat7Hnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1oxUUat7Hnk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HZnZ4H__DeAk__7L7-z3XiPI2b4",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-08T17:50:21Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 5 класс. Атам төрде отырады /09.09.2020/",
+        "description": "Тема урока: Атам төрде отырады\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oaVzpdujnJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oaVzpdujnJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oaVzpdujnJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oaVzpdujnJE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oaVzpdujnJE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kBd-Gn0iuYy1Y3rIipWQpqwkpKE",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-08T18:00:08Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 5 класс. Почему стены пещеры Ласко были разрисованы /09.09.2020/",
+        "description": "Тема урока: Почему стены пещеры Ласко были разрисованы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Y-V9zgHN1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Y-V9zgHN1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Y-V9zgHN1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Y-V9zgHN1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3Y-V9zgHN1c"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ptszMn3z0cDP6hR-_F2-VotP3fQ",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:05:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 5 класс. Родной язык и родная литература. Имя прилагательное /10.09.2020/",
+        "description": "Тема урока: Родной язык и родная литература. Имя прилагательное \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KfX9z2VIXoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KfX9z2VIXoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KfX9z2VIXoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KfX9z2VIXoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KfX9z2VIXoc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aqv2cKWrDd40jev0NQzfmLZ94r4",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:34:35Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Числовые и буквенные выражения и их значения /10.09.2020/",
+        "description": "Тема урока: Числовые и буквенные выражения и их значения\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S54KKl7-644/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S54KKl7-644/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S54KKl7-644/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S54KKl7-644/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S54KKl7-644"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qQ9YM9kkv3jxPJRIRYo_ocvCQvQ",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:38:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 5 класс. My family /10.09.2020/",
+        "description": "Тема урока: My family\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DqUni5NdGwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DqUni5NdGwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DqUni5NdGwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DqUni5NdGwQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DqUni5NdGwQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K-_6A_1amyd8Rv74KK8H0c172M0",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:29:58Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 5 класс. Анализ былины И. Муромец /11.09.2020/",
+        "description": "Тема урока: Анализ художественно-изобразительных средств былины Илья Муромец\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rGXyVyKvBv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rGXyVyKvBv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rGXyVyKvBv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rGXyVyKvBv0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rGXyVyKvBv0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K7QcPG9tdzeXZHnQm6oUBQrQ7tI",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:31:52Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Упрощение выражений /11.09.2020/",
+        "description": "Тема урока: Упрощение выражений\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EN4mcMqy8zY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EN4mcMqy8zY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EN4mcMqy8zY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EN4mcMqy8zY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EN4mcMqy8zY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6S5wXTjkPLiVgUqw62Y55veDUIg",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:33:26Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 5 класс. Стоянки эпохи камня на территории Казахстана /11.09.2020/",
+        "description": "Тема урока: Стоянки эпохи камня на территории Казахстана \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gBQhlBqNYBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gBQhlBqNYBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gBQhlBqNYBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gBQhlBqNYBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gBQhlBqNYBM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nGXY1U6QjO8Ioiy-VuNwDL2nwcA",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:10:33Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Числовые и буквенные выражения. Упрощение выражений /14.09.2020/",
+        "description": "Тема урока: Числовые и буквенные выражения. Упрощение выражений\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ezMlncivSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ezMlncivSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ezMlncivSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3ezMlncivSg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3ezMlncivSg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TjjAHYKqcItotv2vkqG96Wuzl68",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:12:33Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 5 класс. Our living room /14.09.2020/",
+        "description": "Тема урока: Our living room\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bDhJN6kDx-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bDhJN6kDx-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bDhJN6kDx-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bDhJN6kDx-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bDhJN6kDx-E"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l6iefTXchRCT3_7OkLgEl_vmtyc",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:14:49Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 5 класс. Язык в жизни человека. Обращение, знаки препинания при нем /14.09.2020/",
+        "description": "Тема урока: Язык в жизни человека. Обращение, знаки препинания при нем.\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5sEsLq6AGJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5sEsLq6AGJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5sEsLq6AGJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5sEsLq6AGJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5sEsLq6AGJw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EW1tHfRkGVA_LeYVePrG9_ohFCc",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:17:00Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 5 класс. «Тоқта, ботам» өлеңі /14.09.2020/",
+        "description": "Тема урока: «Тоқта, ботам» өлеңі\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Ir_1BevFXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Ir_1BevFXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Ir_1BevFXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Ir_1BevFXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9Ir_1BevFXc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rS-X7Jcs1WCwNzShKUQY-FDhKzI",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:05:11Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Уравнение. Корень уравнения /15.09.2020/",
+        "description": "Тема урока: Уравнение. Корень уравнения\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qHUyYKdGOzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qHUyYKdGOzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qHUyYKdGOzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qHUyYKdGOzs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qHUyYKdGOzs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4eLuCkP6VsMlNPon6mD2v0i7hpQ",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:14:15Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 5 класс. Анализ данных. Вывод и обсуждение /15.09.2020/",
+        "description": "Тема урока: Анализ данных. Вывод и обсуждение\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E2ydHlFfZI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E2ydHlFfZI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E2ydHlFfZI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E2ydHlFfZI0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E2ydHlFfZI0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r0vWzC5JdQHvwp67WOr2qd6vxco",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:43:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 5 класс. В. М. Васнецов. Описание картины богатыри /15.09.2020/",
+        "description": "Тема урока: Виктор Михаилович Васнецов. Описание картины богатыри\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dX9aAjrEWR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dX9aAjrEWR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dX9aAjrEWR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dX9aAjrEWR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dX9aAjrEWR4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TEVBJsCsuhDxbjhy33ZwXXk0E08",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:45:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 5 класс. Передача информации /15.09.2020/",
+        "description": "Тема урока: Передача информации\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pkFOduRVwtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pkFOduRVwtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pkFOduRVwtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pkFOduRVwtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pkFOduRVwtg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M3F7O-MUHnu8TtU_11o4I2TlV6Q",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-15T18:15:21Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 5 класс. Стоянки эпохи камня на территории Казахстана /16.09.2020/",
+        "description": "Тема урока: Стоянки эпохи камня на территории Казахстана\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/watZh6_23Q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/watZh6_23Q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/watZh6_23Q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/watZh6_23Q8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "watZh6_23Q8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YGWvW_Nt02lhj_pCZl71deDHf-w",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-15T18:18:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 5 класс. Почему люди начали заниматься земледелием и скотоводством? /16.09.2020/",
+        "description": "Тема урока: Почему люди начали заниматься земледелием и скотоводством?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K4wukO93CSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K4wukO93CSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K4wukO93CSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K4wukO93CSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K4wukO93CSw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2lPIGo1wCW1ZQ5zlrE49hThJruE",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-15T18:22:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 5 класс. Бата беру дәстүрі /16.09.2020/",
+        "description": "Тема урока: Бата беру дәстүрі\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zl0FdBd5_pI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zl0FdBd5_pI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zl0FdBd5_pI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zl0FdBd5_pI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zl0FdBd5_pI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WBet7ZMaEAmnHg_Fs-1FrK9xeNw",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:25:07Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 5 класс. My dream house /17.09.2020/",
+        "description": "Тема урока: My dream house\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-W8eSF8ymt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-W8eSF8ymt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-W8eSF8ymt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-W8eSF8ymt0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-W8eSF8ymt0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pHKzpgl1QV-MmYSNjtYRS0IIA-U",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:30:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Формулы. Вычисление по формулам /17.09.2020/",
+        "description": "Тема урока: Формулы. Вычисление по формулам \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4F-sJn933qQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4F-sJn933qQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4F-sJn933qQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4F-sJn933qQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4F-sJn933qQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mwyrXNpRfRmKrKgjrf96Jmz2trw",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:33:20Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 5 класс. Культура: язык и общение /17.09.2020/",
+        "description": "Тема урока: Культура: язык и общение\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gqeyRc2-260/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gqeyRc2-260/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gqeyRc2-260/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gqeyRc2-260/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gqeyRc2-260"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HpsM2Lmo4x6NuElDjfpMcM82RV0",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:24:15Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 5 класс. Решение текстовых задач /18.09.2020/",
+        "description": "Тема урока: Решение текстовых задач\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cSXsqO--bgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cSXsqO--bgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cSXsqO--bgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cSXsqO--bgk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cSXsqO--bgk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IM9g5fnwC9LJmaxHpiOJiakBguU",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:26:11Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 5 класс. Изменения в хозяйстве и совершенствование орудий труда /18.09.2020/",
+        "description": "Тема урока: Изменения в хозяйстве и совершенствование орудий труда\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dAzE-hCPkUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dAzE-hCPkUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dAzE-hCPkUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dAzE-hCPkUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dAzE-hCPkUQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "250V1AsOOUGJfkJH_h1IFITqh9Q",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:27:41Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 5 класс. А. С. Пушкин. Жизнь и творчество /18.09.2020/",
+        "description": "Тема урока: А. С. Пушкин. Жизнь и творчество\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQo1Qtc07wQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQo1Qtc07wQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQo1Qtc07wQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nQo1Qtc07wQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nQo1Qtc07wQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-qnWaNXHD2YooEMnUePGxK3dHl4",
+      "id": "UExESXdOSlljSVE3NlRQbWpGeGkyUXdVN1dQMUVSc05xRC44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:50:18Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 5 класс. Имя прилагательное (род, число, падеж) /21.09.2020/",
+        "description": "Тема урока: Имя прилагательное (род, число, падеж)\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DUCLcuV9Tno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DUCLcuV9Tno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DUCLcuV9Tno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DUCLcuV9Tno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ76TPmjFxi2QwU7WP1ERsNqD",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DUCLcuV9Tno"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 582,
+    "resultsPerPage": 50
+  }
+}

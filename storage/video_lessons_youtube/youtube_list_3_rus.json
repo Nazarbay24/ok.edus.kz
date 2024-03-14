@@ -1,0 +1,2186 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "8wK1b4MJwCfVHki3pWIzI-4zFxs",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vFAMU6FQOh3rhD08jrh6w5OfPfg",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-31T12:17:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 3 класс. Изучай природу, которая тебя окружает /01.09.2020/",
+        "description": "Тема урока: Изучай природу, которая тебя окружает\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n9bVYDfMbsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n9bVYDfMbsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n9bVYDfMbsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n9bVYDfMbsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n9bVYDfMbsw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rllLIPQ_Ny8NBPD_Fwaq3L3AwdQ",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-31T12:31:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Числа в пределах 1000 /01.09.2020/",
+        "description": "Тема урока: Числа в пределах 1000\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BYAAyTM5-kM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BYAAyTM5-kM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BYAAyTM5-kM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BYAAyTM5-kM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BYAAyTM5-kM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LmuDqc-LuoEk6V_N8cEjMdvNgGY",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:57:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 3 класс. Жанды және жансыз табиғат /01.09.2020/",
+        "description": "Тема урока: Жанды және жансыз табиғат\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9rrzMzT5h3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9rrzMzT5h3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9rrzMzT5h3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9rrzMzT5h3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9rrzMzT5h3w"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x-070mIQZPIe_ZZ4yP6_s15xT6Y",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:15:54Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Цифровая грамотность. 3 класс. Устройства компьютера /02.09.2020/",
+        "description": "Тема урока: Устройства компьютера\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mDh80dV9E0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mDh80dV9E0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mDh80dV9E0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mDh80dV9E0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mDh80dV9E0k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6RblFmVMJoxeb81DMJ6iQSWYGFI",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:02:44Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Речь. Требования к речи /02.09.2020/",
+        "description": "Тема урока: Речь. Требования к речи\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wSKgTBXxWMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wSKgTBXxWMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wSKgTBXxWMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wSKgTBXxWMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wSKgTBXxWMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wSKgTBXxWMc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z0T0CQXbvcd1NWrLJMjb3cCRDmI",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:10:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 3 класс. От чего зависит климат на Земле? /02.09.2020/",
+        "description": "Тема урока: От чего зависит климат на Земле?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CtiX-vIk5a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CtiX-vIk5a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CtiX-vIk5a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CtiX-vIk5a8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CtiX-vIk5a8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CtiX-vIk5a8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f2ZJaenlcBNozeoDU1dCQlY86Xk",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:25:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Сумма разрядных слагаемых /03.09.2020/",
+        "description": "Тема урока: Сумма разрядных слагаемых\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nvh81ZK2GkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nvh81ZK2GkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nvh81ZK2GkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nvh81ZK2GkM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nvh81ZK2GkM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nvh81ZK2GkM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lxao3c7C7csXWcYnC5xT5w_DGa8",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:28:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 3 класс. Үй жануарлары – жанды табиғат /03.09.2020/",
+        "description": "Тема урока: Үй жануарлары – жанды табиғат\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hCJc2V03ZKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hCJc2V03ZKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCJc2V03ZKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hCJc2V03ZKg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hCJc2V03ZKg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hCJc2V03ZKg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jvj7mdMISpl_pH-AjrFIbGAnlm4",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-02T20:05:05Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение.3 класс. Живая книга природы /03.09.2020/",
+        "description": "Тема урока: Живая книга природы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKAcp253HAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKAcp253HAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKAcp253HAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sKAcp253HAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sKAcp253HAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sKAcp253HAk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UBbrxxJLVt4hdCSXveGS9GyW4zE",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:01:09Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Устное сложение и вычитание трехзначных чисел /04.09.2020/",
+        "description": "Тема урока: Устное сложение и вычитание трехзначных чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e-_2VinX3iE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e-_2VinX3iE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e-_2VinX3iE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e-_2VinX3iE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e-_2VinX3iE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e-_2VinX3iE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dpTf51Rl5Q6NatHpEosLRKE-0oc",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:02:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Речевой этикет /04.09.2020/",
+        "description": "Тема урока: Речевой этикет\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yK_3P76br9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yK_3P76br9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yK_3P76br9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yK_3P76br9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yK_3P76br9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yK_3P76br9k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OCKnUZK3_j2LZf2TBoZ5YhanYeg",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:12:44Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 3 класс. Animals /04.09.2020/",
+        "description": "Тема урока: Animals\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lndAJCLa3Qg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lndAJCLa3Qg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lndAJCLa3Qg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lndAJCLa3Qg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lndAJCLa3Qg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lndAJCLa3Qg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WW_JsuufqG71ctDSK533VGzRiFA",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:32:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 3 класс. История научных открытий /07.09.2020/",
+        "description": "Тема урока: История научных открытий\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G1GpFPPWGRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G1GpFPPWGRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1GpFPPWGRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G1GpFPPWGRQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G1GpFPPWGRQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G1GpFPPWGRQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FxNFVBzACxLWLBPjnIThuQqCbxY",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:34:09Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Устное сложение и вычитание трехзначных чисел /07.09.2020/",
+        "description": "Тема урока: Устное сложение и вычитание трехзначных чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/owraTEfw5Y0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/owraTEfw5Y0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/owraTEfw5Y0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/owraTEfw5Y0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/owraTEfw5Y0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "owraTEfw5Y0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U6LnnYjofQubQ1vScB2LVzclcZc",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:35:06Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Язык – средство общения и познания /07.09.2020/",
+        "description": "Тема урока: Язык – средство общения и познания. Языковые явления\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QLnXatKrYKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QLnXatKrYKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QLnXatKrYKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QLnXatKrYKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QLnXatKrYKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QLnXatKrYKs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JuSYJ-KJXLHxMRN0HYmFV04_gGQ",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:22:58Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 3 класс. Бұл – малдың төлі /08.09.2020/",
+        "description": "Тема урока: Бұл – малдың төлі\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dnYbj1oS6iY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dnYbj1oS6iY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dnYbj1oS6iY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dnYbj1oS6iY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dnYbj1oS6iY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dnYbj1oS6iY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K8eVX_WdNxE8VrPUQyuoB0bzbfw",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:24:07Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 3 класс. Секреты живой природы /08.09.2020/",
+        "description": "Тема урока: Секреты живой природы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TqkxXDTFHm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TqkxXDTFHm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TqkxXDTFHm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TqkxXDTFHm8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TqkxXDTFHm8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TqkxXDTFHm8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dHYNGoaQ92DfAQW0tL1VU9CijXE",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:26:00Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Счет тысячами до миллиона /08.09.2020/",
+        "description": "Тема урока: Счет тысячами до миллиона\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BWgr_XZ4QHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BWgr_XZ4QHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BWgr_XZ4QHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BWgr_XZ4QHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BWgr_XZ4QHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BWgr_XZ4QHg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "An9U5-uwEh6jnPNAgbAaRvWI5Ew",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-08T17:22:28Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 3 класс. Как погода влияет на человека? /09.09.2020/",
+        "description": "Тема урока: Как погода влияет на человека?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s6_am85OaqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s6_am85OaqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s6_am85OaqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s6_am85OaqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s6_am85OaqQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W02krx4Vi03Ggm171qJ4FohzZQo",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-08T17:32:41Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Цифровая грамотность. 3 класс. Файлы и папки /09.09.2020/",
+        "description": "Тема урока: Файлы и папки\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dz3XzNOfbNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dz3XzNOfbNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dz3XzNOfbNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dz3XzNOfbNI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dz3XzNOfbNI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z_4qtU8ripo9oNNOcOA2mUM3gio",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-09T10:59:02Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Сопоставление произношения с написанием слов /09.09.2020/",
+        "description": "Тема урока: Сопоставление произношения с написанием слов\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hi1ww_B5QQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hi1ww_B5QQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hi1ww_B5QQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hi1ww_B5QQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hi1ww_B5QQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hi1ww_B5QQU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "utLw5I2cemiCPgT8YVfdwu3zj24",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:10:04Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 3 класс. Живая природа осенью /10.09.2020/",
+        "description": "Тема урока: Живая природа осенью\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OY_dzxakSJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OY_dzxakSJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OY_dzxakSJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OY_dzxakSJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OY_dzxakSJk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jA0p8xOy4tq-Vtk21sXs8bcabMM",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:12:36Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 3 класс. Менің ақ лағым бар /10.09.2020/",
+        "description": "Тема урока: Менің ақ лағым бар\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2nKl8fjax9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2nKl8fjax9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2nKl8fjax9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2nKl8fjax9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2nKl8fjax9A"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_4UX6i80lo66Cs8nJ9BDZ22aILo",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:47:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Счет тысячами до миллиона. Последовательность чисел /10.09.2020/",
+        "description": "Тема урока: Счет тысячами до миллиона. Последовательность чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dUr8dF7r80M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dUr8dF7r80M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dUr8dF7r80M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dUr8dF7r80M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dUr8dF7r80M"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sAtCWsU7845VkkTuoiYXcYTduqE",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-10T15:59:06Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 3 класс. Body parts /11.09.2020/",
+        "description": "Тема урока: Body parts\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/znB36Kto04k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/znB36Kto04k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/znB36Kto04k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/znB36Kto04k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "znB36Kto04k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UFC7PIfn8Bu-D7UMXUH7quRLom8",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:18:37Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Предложение /11.09.2020/",
+        "description": "Тема урока: Предложение\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m55B1Zaj5lg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m55B1Zaj5lg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m55B1Zaj5lg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m55B1Zaj5lg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m55B1Zaj5lg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qtfYH8XNkb08Ypr1CxRUcZCELGM",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-10T17:28:35Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Алгоритм сложения и вычитания трехзначных чисел /11.09.2020/",
+        "description": "Тема урока: Алгоритм сложения и вычитания трехзначных чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VwyYvHEeI1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VwyYvHEeI1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VwyYvHEeI1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VwyYvHEeI1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VwyYvHEeI1Y"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GY03R596VdF4ZzqeHkX__6alKFc",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:23:44Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Части речи /14.09.2020/",
+        "description": "Тема урока:  Части речи\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MK_-rMwcvPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MK_-rMwcvPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MK_-rMwcvPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MK_-rMwcvPY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MK_-rMwcvPY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dGK3exQi6duSB8RaS-HD3lCHvMg",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:25:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Алгоритм сложения и вычитания трехзначных чисел /14.09.2020/",
+        "description": "Тема урока: Алгоритм сложения и вычитания трехзначных чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JgP5PZIKtC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JgP5PZIKtC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JgP5PZIKtC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JgP5PZIKtC0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JgP5PZIKtC0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wSAAp5xkBlGTvRvJFw72x98ct1o",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-13T19:28:07Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 3 класс. Планирование и проведение эксперимента /14.09.2020/",
+        "description": "Тема урока: Планирование и проведение эксперимента\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qavDpTcIECg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qavDpTcIECg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qavDpTcIECg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qavDpTcIECg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qavDpTcIECg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zlc4pYLFK4aOoJew895GBWAbsqg",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:09:46Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Алгоритм сложения и вычитания трехзначных чисел /15.09.2020/",
+        "description": "Тема урока: Алгоритм сложения и вычитания трехзначных чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9fAQ5vIePas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9fAQ5vIePas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9fAQ5vIePas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9fAQ5vIePas/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9fAQ5vIePas"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6070OzIgjnrkzrtYqJhqQ7NTTcE",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:30:50Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 3 класс. Жәндік жанды табиғатқа жата ма? /15.09.2020/",
+        "description": "Тема урока: Жәндік жанды табиғатқа жата ма?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oOwjfuN8Y_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oOwjfuN8Y_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oOwjfuN8Y_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oOwjfuN8Y_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oOwjfuN8Y_Y"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m3AtnBoNFqbNNjSCP__Nf4sgG_g",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-15T01:32:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 3 класс. Живая природа зимой. /15.09.2020/",
+        "description": "Тема урока: Живая природа зимой.А. Дуйсенбиев «Зима в лесу»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N5pzE-AW5uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N5pzE-AW5uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N5pzE-AW5uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N5pzE-AW5uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N5pzE-AW5uY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-yfsOU33WpTOyiq4Ix3kYKxUgAw",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:59:09Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 3 класс. Моя безопасность в естественной среде /16.09.2020/",
+        "description": "Тема урока: Моя безопасность в естественной среде\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DMBTEMmuhbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DMBTEMmuhbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DMBTEMmuhbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DMBTEMmuhbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DMBTEMmuhbA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PfjEIToQTbi5_lOxZ8afci-iuBY",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-15T18:01:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Состав слова /16.09.2020/",
+        "description": "Тема урока: Состав слова\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1nXIbiAU75Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1nXIbiAU75Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1nXIbiAU75Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1nXIbiAU75Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1nXIbiAU75Y"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c8c2ABqwK2g4A0YMav3s-LJhiWs",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-15T18:03:52Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Цифровая грамотность. 3 класс. Окно программ /16.09.2020/",
+        "description": "Тема урока: Окно программ\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BEFT5wc2wl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BEFT5wc2wl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BEFT5wc2wl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BEFT5wc2wl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BEFT5wc2wl8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Bqypbs2_-V4kHHJx169zBTkKkmo",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:03:29Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 3 класс. Құстар - біздің досымыз /17.09.2020/",
+        "description": "Тема урока: Құстар - біздің досымыз\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zeNntVSvJXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zeNntVSvJXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zeNntVSvJXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zeNntVSvJXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zeNntVSvJXA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MLrbwG_O0ZmYMKm4Q9h2xkosm7g",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:05:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 3 класс. Г. Снегирёв «Танец верблюдов» /17.09.2020/",
+        "description": "Тема урока: Г. Снегирёв «Танец верблюдов»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4-dsqxTdzQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4-dsqxTdzQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4-dsqxTdzQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4-dsqxTdzQA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4-dsqxTdzQA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ig-35cITzak1qycy-IRlQ8bM6So",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-16T18:08:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Алгоритм сложения и вычитания трехзначных чисел /17.09.2020/",
+        "description": "Тема урока: Алгоритм сложения и вычитания трехзначных чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7huYMaBb6Qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7huYMaBb6Qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7huYMaBb6Qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7huYMaBb6Qk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7huYMaBb6Qk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dlQUx13ZXL5YA1icdx7uLEmCtYo",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-09-17T14:41:17Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Закрепление. Алгоритм сложения и вычитания трехзначных чисел /18.09.2020/",
+        "description": "Тема урока: Закрепление. Алгоритм сложения и вычитания трехзначных чисел. Последовательность чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WgpefUrRVFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WgpefUrRVFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WgpefUrRVFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WgpefUrRVFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WgpefUrRVFI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vV6SXLgNiriKoK1eAedH9h_hckA",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-17T14:43:16Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Звуки и буквы /18.09.2020/",
+        "description": "Тема урока: Звуки и буквы. Слоговой и звуко-буквенный анализ слов\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tv3kbG1QkG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tv3kbG1QkG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tv3kbG1QkG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tv3kbG1QkG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tv3kbG1QkG0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v5rAHKfQ3ApOViQHX0I466yeY7U",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-17T15:01:15Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 3 класс. Body parts 2 /18.09.2020/",
+        "description": "Тема урока: Body parts 2\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JAE4RBXuMY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JAE4RBXuMY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JAE4RBXuMY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JAE4RBXuMY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JAE4RBXuMY4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1-t2KUrUEuBcaiURKnOVRQGNGZ8",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:28:36Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Свойство единицы при выполнении умножения и деления /21.09.2020/",
+        "description": "Тема урока: Свойство единицы при выполнении умножения и деления\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_cIo4jC184/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_cIo4jC184/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_cIo4jC184/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_cIo4jC184/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n_cIo4jC184"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BoOf7K0XuOyONe-y0ALmwbO24O8",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:32:12Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Текст /21.09.2020/",
+        "description": "Тема урока: Текст\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qqVsORrDtqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qqVsORrDtqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qqVsORrDtqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qqVsORrDtqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qqVsORrDtqU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dyAehtDwG4d_M8xoIBmS4xFaPeA",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-20T16:35:32Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Естествознание. 3 класс. Планирование и проведение эксперимента /21.09.2020/",
+        "description": "Тема урока: Планирование и проведение эксперимента\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VGq3EXjJv-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VGq3EXjJv-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VGq3EXjJv-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VGq3EXjJv-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VGq3EXjJv-c"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sVtY15k6724VZSQ_Awc9IvCZu2s",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-21T16:19:15Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Математика. 3 класс. Свойство ноля при выполнении умножения и деления /22.09.2020/",
+        "description": "Тема урока: Свойство ноля при выполнении умножения и деления. Невозможность деления числа на ноль\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lCndisxW338/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lCndisxW338/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lCndisxW338/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lCndisxW338/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lCndisxW338"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rEhuQD4GffzUH-lx7szubYR0ZPk",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-21T16:22:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Литературное чтение. 3 класс. С. Муканов «Родная степь» /22.09.2020/",
+        "description": "Тема урока: Живая природа летом. С. Муканов «Родная степь»\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0QPP_nwIL7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0QPP_nwIL7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0QPP_nwIL7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0QPP_nwIL7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0QPP_nwIL7g"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PJ0Rim0NntCyXJt-4QG7hdegfX8",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-21T16:25:28Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык. 3 класс. Қандай әдемі балапан! /22.09.2020/",
+        "description": "Тема урока: Қандай әдемі балапан!\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kcxUghqdizs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kcxUghqdizs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kcxUghqdizs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kcxUghqdizs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kcxUghqdizs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "er4omYRPdakozFTUvQ72TqtrR7Y",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-22T16:28:41Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 3 класс. Типы текста /23.09.2020/",
+        "description": "Тема урока: Типы текста\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uw5zIEeE0PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uw5zIEeE0PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uw5zIEeE0PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uw5zIEeE0PY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Uw5zIEeE0PY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mWY9ewR31V_s_hS86fTwOxS6Dzs",
+      "id": "UExESXdOSlljSVE3NzZKTlZvWGM1S1BfZGhkQ3Qxa3lOMS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-09-22T16:31:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Познание мира. 3 класс. Почему люди трудятся? /23.09.2020/",
+        "description": "Тема урока: Почему люди трудятся?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7pe8ygOnmTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7pe8ygOnmTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7pe8ygOnmTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7pe8ygOnmTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ776JNVoXc5KP_dhdCt1kyN1",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7pe8ygOnmTc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 506,
+    "resultsPerPage": 50
+  }
+}

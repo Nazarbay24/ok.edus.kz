@@ -1,0 +1,2181 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "mWMuVye4SY0kdyDY5fZx_cXU49g",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NBC0BECpSan4RsFfcyjMMUf56xw",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:38:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 10 класс. История создания романа «Евгений Онегин» /01.09.2020/",
+        "description": "Тема урока: История создания романа «Евгений Онегин». Особенности жанра \n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kTcUb6DZUFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kTcUb6DZUFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kTcUb6DZUFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kTcUb6DZUFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kTcUb6DZUFc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KDnBm7ToUdv5JmwDzL5kGQ4WX5I",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:39:56Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 10 класс. Понятие «цивилизация» /01.09.2020/",
+        "description": "Тема урока: Понятие «цивилизация»\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rP-IaNEEk5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rP-IaNEEk5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rP-IaNEEk5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rP-IaNEEk5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rP-IaNEEk5Y"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TH7iAVExAsKTH-mdUAfsccOs9QM",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:54:11Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 10 класс. Повторение курса геометрии 7-9 классов /01.09.2020/",
+        "description": "Тема урока: Повторение курса геометрии 7-9 классов\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u6NzMgi2ayM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u6NzMgi2ayM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u6NzMgi2ayM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u6NzMgi2ayM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u6NzMgi2ayM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HeDE4w3kOLmws2pMB8ypywKNzIs",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-09-01T22:49:44Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 10 класс. Повторение курса алгебры /02.09.2020/",
+        "description": "Тема урока: Повторение курса алгебры \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JzjBi9ylKDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JzjBi9ylKDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzjBi9ylKDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JzjBi9ylKDE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JzjBi9ylKDE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JzjBi9ylKDE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GUhiO_iKGgC5LS0IiDHUaJQMX9A",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:14:04Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 10 класс. Современная теория строения атома /02.09.2020/",
+        "description": "Тема урока: Современная теория строения атома. Состояние и движение электрона в атоме \n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sTC00TtR2Ds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sTC00TtR2Ds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sTC00TtR2Ds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sTC00TtR2Ds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sTC00TtR2Ds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sTC00TtR2Ds"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YdZz7fo1NCZ5qhq2i3UbGPho0Dc",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:20:18Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 10 класс. Виды методов исследования /02.09.2020/",
+        "description": "Тема урока: Виды методов исследования \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OJnQ6LlzEYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OJnQ6LlzEYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OJnQ6LlzEYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OJnQ6LlzEYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OJnQ6LlzEYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OJnQ6LlzEYM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EehKSRUQUkCLcpGUUrKgxRtEklc",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:21:26Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 10 класс. Еңбек нарығы /02.09.2020/",
+        "description": "Тема урока: Еңбек нарығы \n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iaOFFMVRDzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iaOFFMVRDzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iaOFFMVRDzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iaOFFMVRDzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iaOFFMVRDzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iaOFFMVRDzA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O9VDoRXHoZ3hilB5lBSfaL5EDEI",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:23:28Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 10 класс. Информационная безопасность /02.09.2020/",
+        "description": "Тема урока: Информационная безопасность \n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GdpG1ZHtX4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GdpG1ZHtX4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GdpG1ZHtX4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GdpG1ZHtX4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GdpG1ZHtX4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GdpG1ZHtX4U"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fOboIi8y4ECyVzLv_FGwk2hnxiE",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:36:32Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 10 класс. Центральная Азия: исторические и географические аспекты /03.09.2020/",
+        "description": "Тема урока: Центральная Азия: исторические и географические аспекты понятия \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2I5P4CdCuAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2I5P4CdCuAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2I5P4CdCuAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2I5P4CdCuAI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2I5P4CdCuAI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2I5P4CdCuAI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RQLPJ9rwcrjlbwRwVyrdkrQXXSk",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:41:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 10 класс. Legends or Truth /03.09.2020/",
+        "description": "Тема урока: Legends or Truth \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6sl_5ZPfW34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6sl_5ZPfW34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sl_5ZPfW34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6sl_5ZPfW34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6sl_5ZPfW34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6sl_5ZPfW34"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yTgXAXCyGxzGRJ3Z_2_FFw2N99k",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:48:26Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 10 класс. Роль физики в современном мире /03.09.2020/",
+        "description": "Тема урока: Роль физики в современном мире \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JkQ0fdYg0q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JkQ0fdYg0q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JkQ0fdYg0q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JkQ0fdYg0q4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JkQ0fdYg0q4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JkQ0fdYg0q4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N2GK2lbX0rcrUu5XARyZ8Fs_d24",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-02T18:50:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 10 класс. Еңбек нарығы және сұраныс /03.09.2020/",
+        "description": "Тема урока: Еңбек нарығы және сұраныс \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pqbtxZqBezk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pqbtxZqBezk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pqbtxZqBezk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pqbtxZqBezk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pqbtxZqBezk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pqbtxZqBezk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gM6oA1MxU3TXLRargDhE_efz0z4",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:28:21Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 10 класс. История изучения традиционных цивилизаций Центральной Азии/04.09.2020/",
+        "description": "Тема урока: История изучения традиционных цивилизаций Центральной Азии\n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mO2PoVYhpsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mO2PoVYhpsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mO2PoVYhpsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mO2PoVYhpsc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mO2PoVYhpsc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mO2PoVYhpsc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MLlQdoJQXvUJSXggtilDPiZ-3zU",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:29:03Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 10 класс. Виды методов исследования /04.09.2020/",
+        "description": "С понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K4WAOeMxeZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K4WAOeMxeZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K4WAOeMxeZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K4WAOeMxeZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K4WAOeMxeZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K4WAOeMxeZo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XfEnaebuTyi7BzAPZh5QbWj4Nl8",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:41:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 10 класс. Значение воды для жизни на Земле /04.09.2020/",
+        "description": "Тема урока: Значение воды для жизни на Земле \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BkUXmqqB4SM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BkUXmqqB4SM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BkUXmqqB4SM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BkUXmqqB4SM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BkUXmqqB4SM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BkUXmqqB4SM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wXZU92PHN4eYXk9UsQ3YqzlzTU4",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:42:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 10 класс. Urban legends /04.09.2020/",
+        "description": "Тема урока: Urban legends\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zcful_caTdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zcful_caTdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zcful_caTdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zcful_caTdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zcful_caTdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zcful_caTdQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M1-eHMZASABPBNWqe2Z9ADawP68",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:43:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 10 класс. Квантовые числа. Принцип Паули. Правило Хунда. Правило Клечковского /04.09.2020/",
+        "description": "Тема урока: Квантовые числа. Принцип Паули. Правило Хунда. Правило Клечковского \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0g3Xhm5pK_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0g3Xhm5pK_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0g3Xhm5pK_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0g3Xhm5pK_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0g3Xhm5pK_8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0g3Xhm5pK_8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7GLIgCxbNhDkyYUYh17JTmnfkmI",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:25:33Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 10 класс. Повторение курса алгебры 9 класса /07.09.2020/",
+        "description": "Тема урока: Повторение курса алгебры 9 класса\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9GbpmgM7kjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9GbpmgM7kjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9GbpmgM7kjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9GbpmgM7kjY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9GbpmgM7kjY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9GbpmgM7kjY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lk8ICO-yjv6QW3z4yOt6Z_6vWzQ",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:28:03Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 10 класс. Классификация углеводов. Химическая структура /07.09.2020/",
+        "description": "Тема урока: Классификация углеводов. Химическая структура \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4u8NTXma-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4u8NTXma-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4u8NTXma-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f4u8NTXma-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f4u8NTXma-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f4u8NTXma-0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n-Q0E1xrMIswKhzm5gzvonVc0Sw",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:32:48Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 10 класс. Имидж страны /07.09.2020/",
+        "description": "Тема урока: Имидж страны\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pcO9IIXxSMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pcO9IIXxSMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pcO9IIXxSMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pcO9IIXxSMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pcO9IIXxSMk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4FLZ5yGnoLNabL6_eMIUiHAEAKI",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-06T17:36:41Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 10 класс. Основные понятия и уравнения кинематики равноускоренного движения тела/07.09.2020/",
+        "description": "Тема урока: Основные понятия и уравнения кинематики равноускоренного движения тела\n\n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qu5zfR4rvi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qu5zfR4rvi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qu5zfR4rvi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qu5zfR4rvi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qu5zfR4rvi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qu5zfR4rvi0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JDNfDZKvtcFHfXB6XF5m4_KqxGk",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-08T08:46:24Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 10 класс. Один день из жизни Онегина /08.09.2020/",
+        "description": "Тема урока: Один день из жизни Онегина \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v-ipoQFftls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v-ipoQFftls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v-ipoQFftls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v-ipoQFftls"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mfuGT__85t8LNAqWqePoXYkpZCA",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-08T08:49:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 10 класс. Аксиомы стереометрии и их следствия /08.09.2020/",
+        "description": "Тема урока: Аксиомы стереометрии и их следствия\n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/51Wl594E78o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/51Wl594E78o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/51Wl594E78o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "51Wl594E78o"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NBpDW0C7gqYrSE0u2GPC5U2rbuE",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-08T08:52:37Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 10 класс. Индустриальный этап развития цивилизации /08.09.2020/",
+        "description": "Тема урока: Индустриальный этап развития цивилизации \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lXLyui5xME0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lXLyui5xME0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lXLyui5xME0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lXLyui5xME0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "16vlL7TTmhlaSvkay1YD2MI_-Vs",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:22:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 10 класс. Понятие о радиоактивных веществах /09.09.2020/",
+        "description": "Тема урока: Понятие о радиоактивных веществах. Ядерные реакции и их роль в энергетическом потенциале Казахстана\n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e9NfdwZLPSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e9NfdwZLPSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9NfdwZLPSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e9NfdwZLPSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e9NfdwZLPSM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zp_ob6EMUUEPDtpoLKrul1C1_0M",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:45:29Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 10 класс. Кәсіпкерлік - табыс көзі /09.09.2020/",
+        "description": "Тема урока: Кәсіпкерлік - табыс көзі \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nLNeYCEgPgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nLNeYCEgPgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nLNeYCEgPgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nLNeYCEgPgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nLNeYCEgPgs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-uibxC2Ji7N9qB2ufe_O4tw12nM",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:48:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 10 класс. Методы защиты информации /09.09.2020/",
+        "description": "Тема урока: Методы защиты информации \n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OoDs5RlBrFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OoDs5RlBrFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OoDs5RlBrFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OoDs5RlBrFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OoDs5RlBrFY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AVvfbMkpNMs3sEeyGr2kRgWijdw",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:51:13Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 10 класс. Виды методов исследования /09.09.2020/",
+        "description": "Тема урока: Виды методов исследования \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kV3IpbmY0JM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kV3IpbmY0JM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kV3IpbmY0JM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kV3IpbmY0JM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kV3IpbmY0JM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "onWqPge0ffyezfybUZ7VlZR19QY",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-08T19:53:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 10 класс. Функция /09.09.2020/",
+        "description": "Тема урока: Функция \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pKAjfmuV6IM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pKAjfmuV6IM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pKAjfmuV6IM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pKAjfmuV6IM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pKAjfmuV6IM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t5VoWe3K2ziucRozB8WdpcxxdgI",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:03:15Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 10 класс. Кәсіпкерлік - шеберлік /10.09.2020/",
+        "description": "Тема урока: Кәсіпкерлік - шеберлік \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IBDVfTS991k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IBDVfTS991k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IBDVfTS991k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IBDVfTS991k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IBDVfTS991k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2o7omHvityzdpuBihjwpW_f2mcY",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:06:01Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 10 класс. История изучения традиционных цивилизаций Центральной Азии/10.09.2020/",
+        "description": "Тема урока: История изучения традиционных цивилизаций Центральной Азии \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0UAZKoO4xIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0UAZKoO4xIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0UAZKoO4xIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0UAZKoO4xIM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0UAZKoO4xIM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HlsuPvujUpXbq9BvrnK2-Sk6ke0",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:08:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 10 класс. Инвариантные и относительные физические величины /10.09.2020/",
+        "description": "Тема урока: Инвариантные и относительные физические величины. Принцип относительности Галилея\n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2SyzBcA1LBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2SyzBcA1LBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2SyzBcA1LBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2SyzBcA1LBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2SyzBcA1LBk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k4eMNStRaVN5lNcbyXB0J67XZSk",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:28:32Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 10 класс. Fact or Fiction /10.09.2020/",
+        "description": "Тема урока: Fact or Fiction \n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RJ_qmBqAqjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RJ_qmBqAqjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RJ_qmBqAqjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RJ_qmBqAqjQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RJ_qmBqAqjQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UTcuyp5zZvR35C2DZK7CYpUx8S4",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:30:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 10 класс. Постиндустриальный этап развития цивилизации /10.09.2020/",
+        "description": "Тема урока: Постиндустриальный этап развития цивилизации\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0Yuqkjsl6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0Yuqkjsl6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0Yuqkjsl6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q0Yuqkjsl6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q0Yuqkjsl6M"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "USgxjUxtlBo4M0jDKjLAuHHo2Ek",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:18:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 10 класс. Свойства и функции жиров /11.09.2020/",
+        "description": "Тема урока: Свойства и функции жиров \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gvt9UMACiCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gvt9UMACiCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gvt9UMACiCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gvt9UMACiCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gvt9UMACiCk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iBYG_oD6OLig948SyprKd0Sx3Kc",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:38:33Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 10 класс. Основные стехиометрические законы химии /11.09.2020/",
+        "description": "Тема урока: Основные стехиометрические законы химии\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7vihuJKEUF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7vihuJKEUF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7vihuJKEUF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7vihuJKEUF8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7vihuJKEUF8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rPiMBpfbImfGhmnExQNZTdzYWH0",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:41:11Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 10 класс. Древние очаги центральноазиатских цивилизаций /11.09.2020/",
+        "description": "Тема урока: Древние очаги центральноазиатских цивилизаций \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7JG2mx1LVek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7JG2mx1LVek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7JG2mx1LVek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7JG2mx1LVek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7JG2mx1LVek"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ckTWoOvYriNqWUyb-lC3hWPKJMU",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:09:10Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 10 класс. Виды методов исследования /11.09.2020/",
+        "description": "Тема урока: Виды методов исследования \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Azkv3jcNWUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Azkv3jcNWUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Azkv3jcNWUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Azkv3jcNWUs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Azkv3jcNWUs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kXFRD6bZVXHL6KjDcNC2y1sq6Ho",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:12:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 10 класс. Historical Myth Busters /11.09.2020/",
+        "description": "Тема урока: Historical Myth Busters \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uaCUrq6eQog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uaCUrq6eQog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uaCUrq6eQog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uaCUrq6eQog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uaCUrq6eQog"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tH1bk_TJxTK6jVeH5gVBZcnr8PE",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:03:19Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 10 класс. Кинематика криволинейного движения /14.09.2020/",
+        "description": "Тема урока: Кинематика криволинейного движения \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QjMXlHVT3K0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QjMXlHVT3K0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QjMXlHVT3K0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QjMXlHVT3K0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QjMXlHVT3K0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bM91ENFHKB56r_O0I1XibDtYSVI",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:04:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 10 класс. Классификация белков по составу и по функциям /14.09.2020/",
+        "description": "Тема урока: Классификация белков по составу и по функциям \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EiLw5rOUcdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EiLw5rOUcdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EiLw5rOUcdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EiLw5rOUcdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EiLw5rOUcdQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jW7XFLSNkR2UiC10C2yBU_CFZ4w",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:06:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 10 класс. Роль личности и формировании имиджа страны /14.09.2020/",
+        "description": "Тема урока: Роль личности и формировании имиджа страны \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oloeXKRj7TE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oloeXKRj7TE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oloeXKRj7TE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oloeXKRj7TE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oloeXKRj7TE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D0wXZhROMAdfnKQ_IjThX6sE758",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-13T17:08:51Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 10 класс. Преобразования графиков функции /14.09.2020/",
+        "description": "Тема урока: Преобразования графиков функции \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SEnwpGJ3jGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SEnwpGJ3jGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEnwpGJ3jGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SEnwpGJ3jGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SEnwpGJ3jGI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EVtjrzMbai6j4bSoTIj-TEvC1eM",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-15T00:09:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 10 класс. Новые герои. Ленский и семья Лариных /15.09.2020/",
+        "description": "Тема урока: Новые герои. Ленский и семья Лариных \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQRy4Nz1L-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQRy4Nz1L-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQRy4Nz1L-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nQRy4Nz1L-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nQRy4Nz1L-A"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Es-d3Slh6xB13IXoyz1HoiDf6wM",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-15T00:11:09Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 10 класс. Взаимные расположение прямых в пространстве /15.09.2020/",
+        "description": "Тема урока: Взаимные расположение прямых в пространстве\n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/je4KWGW22Gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/je4KWGW22Gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/je4KWGW22Gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/je4KWGW22Gc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "je4KWGW22Gc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FgtalxewficFHauyjC254hc2OFE",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-15T00:13:24Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 10 класс. Постиндустриальный этап развития цивилизации /15.09.2020/",
+        "description": "Тема урока: Постиндустриальный этап развития цивилизации \n\n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SfMmBSp6qcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SfMmBSp6qcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SfMmBSp6qcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SfMmBSp6qcU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SfMmBSp6qcU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iEk3trdzpm_zr504AGsKHVRbgbc",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:38:25Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 10 класс. Виды методов исследования /16.09.2020/",
+        "description": "Тема урока: Виды методов исследования\n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y7HBnqdHCgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y7HBnqdHCgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y7HBnqdHCgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y7HBnqdHCgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y7HBnqdHCgg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a2sgE8oIho_YEU4ZIW640KyduB8",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:40:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 10 класс. Әлеуметтік сұраныс және отандық өнім /16.09.2020/",
+        "description": "Тема урока: Әлеуметтік сұраныс және отандық өнім \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LO_ET4_GTfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LO_ET4_GTfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LO_ET4_GTfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LO_ET4_GTfI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LO_ET4_GTfI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wd7ej3soqV8xgG2fb6roFasRJDU",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:43:24Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 10 класс. Валентность и валентные возможности атомов. Степень окисления /16.09.2020/",
+        "description": "Тема урока: Периодический закон и периодическая система с точки зрения строения атома. Валентность и валентные возможности атомов. Степень окисления \n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1GBxjz8rw1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1GBxjz8rw1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1GBxjz8rw1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1GBxjz8rw1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1GBxjz8rw1s"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O3rAxUosZkguPW_qSZxIY_D7MLQ",
+      "id": "UExESXdOSlljSVE3NDhLTWZFNERaT0w1dmROTUY1U0VsVC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-15T17:45:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра и начала анализа. 10 класс. Преобразование графиков функции /16.09.2020/",
+        "description": "Тема урока: Преобразование графиков функции \n\n\n\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EuU2CN09bTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EuU2CN09bTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EuU2CN09bTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EuU2CN09bTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ748KMfE4DZOL5vdNMF5SElT",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EuU2CN09bTM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 716,
+    "resultsPerPage": 50
+  }
+}

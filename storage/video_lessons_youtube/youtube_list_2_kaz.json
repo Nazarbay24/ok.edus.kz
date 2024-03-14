@@ -1,0 +1,2361 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "7ARVvpC_Pj0nWPVni4G9V-JE8uM",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LKxJtxVw66sVSMOc_cUuwKFz0bY",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-09-01T10:00:50Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "01.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dIpDaix5hr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dIpDaix5hr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dIpDaix5hr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dIpDaix5hr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dIpDaix5hr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dIpDaix5hr8"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gMzqS61WxGJTELuxL92yDYU2-d8",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-09-02T09:44:45Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "02.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BrmMzYbP9CY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BrmMzYbP9CY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BrmMzYbP9CY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BrmMzYbP9CY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BrmMzYbP9CY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BrmMzYbP9CY"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EO5JRqJ0NX8QtlwqGfLKjAfJ7TA",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-09-03T09:32:43Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "03.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Hvcw0AjTwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Hvcw0AjTwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Hvcw0AjTwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Hvcw0AjTwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Hvcw0AjTwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Hvcw0AjTwM"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3-eMTqXb2SDlqUsvwMaVjqW9ULw",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-09-04T05:23:32Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "04.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3H8ovOW9t80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3H8ovOW9t80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3H8ovOW9t80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3H8ovOW9t80/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3H8ovOW9t80/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3H8ovOW9t80"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o2rBSdZMjB6WwCoLy71tsICkGyU",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-09-07T08:16:55Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "07.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ztjefUNrA9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ztjefUNrA9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ztjefUNrA9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ztjefUNrA9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ztjefUNrA9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ztjefUNrA9g"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0w3T9kMdcnticM-x4-SNVWbufpo",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-08T12:12:33Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "08.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BiCwki4qTs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BiCwki4qTs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BiCwki4qTs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BiCwki4qTs8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BiCwki4qTs8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BiCwki4qTs8"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hXGX5mx3wUKhg4teMsX0bh7jGts",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-09T06:20:37Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "09.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BsM8GbZX37g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BsM8GbZX37g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BsM8GbZX37g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BsM8GbZX37g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BsM8GbZX37g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BsM8GbZX37g"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6T4mS3TWoLYlFqK8r-Fy3tdI3Ag",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-10T06:55:43Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "10.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/emkuvcrobqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/emkuvcrobqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/emkuvcrobqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/emkuvcrobqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/emkuvcrobqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "emkuvcrobqg"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hX9SLBMUPx-wBuaIWLXSD6esLIU",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-11T06:27:43Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "11.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aGKj_TFUK7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aGKj_TFUK7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aGKj_TFUK7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aGKj_TFUK7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aGKj_TFUK7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aGKj_TFUK7g"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UsiG8T4jTEaJukSU4kIFUBuz-c0",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-14T05:52:24Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "14.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qKsNF6q6bxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qKsNF6q6bxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qKsNF6q6bxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qKsNF6q6bxQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qKsNF6q6bxQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qKsNF6q6bxQ"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RehhADqjWAyToDhGLtzf6e_6778",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-15T05:36:16Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "15.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dJ7MegkI9_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dJ7MegkI9_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dJ7MegkI9_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dJ7MegkI9_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dJ7MegkI9_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dJ7MegkI9_M"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uW4tjY_CCqmZ6pDmEUX8vV_gzfM",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-16T06:12:57Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "16.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zDStK0l5haY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zDStK0l5haY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDStK0l5haY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zDStK0l5haY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zDStK0l5haY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zDStK0l5haY"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aBh-vCXkHcYU-wtLcePF0kS2S68",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-17T11:29:45Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "17.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YdVa2rH9QAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YdVa2rH9QAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YdVa2rH9QAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YdVa2rH9QAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YdVa2rH9QAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YdVa2rH9QAk"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o_LgZiyT6QSgtlXGmqJxArIeftg",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-18T07:06:09Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "18.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MULfINz5X7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MULfINz5X7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MULfINz5X7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MULfINz5X7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MULfINz5X7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MULfINz5X7Y"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vuHGvtqsuQ2V840CAjLIAT6SIDg",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-21T07:48:12Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "21.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p7A9JUxS3ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p7A9JUxS3ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p7A9JUxS3ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p7A9JUxS3ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p7A9JUxS3ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p7A9JUxS3ro"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QyrH3UFZHCeDobfwoTWnHmwz0E4",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-23T05:01:37Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "22.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KuXTr7vrtFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KuXTr7vrtFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KuXTr7vrtFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KuXTr7vrtFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KuXTr7vrtFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KuXTr7vrtFQ"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BPKPtMKy439ncM63oskGN4uyCGc",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-23T06:13:24Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "23.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/syZ-RD6OXVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/syZ-RD6OXVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/syZ-RD6OXVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/syZ-RD6OXVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/syZ-RD6OXVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "syZ-RD6OXVU"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dbFpyrFD6xGXA72pI4CytsX1-aw",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-24T09:08:43Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "24.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nGxF0wmSpKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nGxF0wmSpKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nGxF0wmSpKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nGxF0wmSpKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nGxF0wmSpKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nGxF0wmSpKA"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TiWcIEeVGJI0iI-SPpyG5iL52Qo",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-25T13:12:06Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "25.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xpb-38smLt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xpb-38smLt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xpb-38smLt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xpb-38smLt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xpb-38smLt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xpb-38smLt4"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "erHpHjelyPFlVqaYIk05NZNuKWI",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-28T06:45:02Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "28.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wcH62iRyGWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wcH62iRyGWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wcH62iRyGWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wcH62iRyGWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wcH62iRyGWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wcH62iRyGWo"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_iSnHHoRBfa_RmwS9xiBSAte12A",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-29T04:21:11Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "29.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yJEv-3RJlt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yJEv-3RJlt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yJEv-3RJlt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yJEv-3RJlt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yJEv-3RJlt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yJEv-3RJlt4"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fU2og9cfZMTmrOMzYg9yEOVTlK0",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-30T04:11:20Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "30.09.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i3DvAW-6iP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i3DvAW-6iP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i3DvAW-6iP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i3DvAW-6iP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i3DvAW-6iP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i3DvAW-6iP0"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "exiKkZFlx8GJowBj2E4AGBOsBC4",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-10-01T10:13:01Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "01.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UADOjuVfSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UADOjuVfSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UADOjuVfSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9UADOjuVfSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9UADOjuVfSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9UADOjuVfSw"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6XMg_T5TvWlFYkOQjFOGh6gZYnU",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-10-02T06:33:11Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "02.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WH9w1ss21-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WH9w1ss21-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WH9w1ss21-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WH9w1ss21-4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WH9w1ss21-4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WH9w1ss21-4"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RcioiwACYAB0YEoq0NywPiCLIkA",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-10-05T06:06:58Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "05.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v1GZgCo5z7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v1GZgCo5z7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v1GZgCo5z7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v1GZgCo5z7M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v1GZgCo5z7M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v1GZgCo5z7M"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EocESDhOWVSEJ36rzPMoZVOBVm8",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-10-06T06:59:30Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "06.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/umBIZLty4TM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/umBIZLty4TM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/umBIZLty4TM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/umBIZLty4TM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/umBIZLty4TM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "umBIZLty4TM"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aDUMB3O3ukcGXZtmfPvYlSlKTnQ",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-10-07T11:45:59Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "07.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BBiG6JLl5-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BBiG6JLl5-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BBiG6JLl5-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BBiG6JLl5-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BBiG6JLl5-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BBiG6JLl5-I"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TkE6wIw8rE3T1VqDPslgQIMBECk",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-10-08T12:42:54Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "08.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4-69a2GCDBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4-69a2GCDBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4-69a2GCDBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4-69a2GCDBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4-69a2GCDBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4-69a2GCDBY"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "elMmmPcK_fRwwVrURk_H_7ut2eU",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-10-09T12:40:53Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "09.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UwEQIBYr6Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UwEQIBYr6Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UwEQIBYr6Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UwEQIBYr6Y4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UwEQIBYr6Y4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UwEQIBYr6Y4"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aIoTDPdSu6IhAN5JV4XWBmrshLs",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-10-12T13:04:04Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "12.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rMWbMD-mFD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rMWbMD-mFD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMWbMD-mFD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rMWbMD-mFD0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rMWbMD-mFD0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rMWbMD-mFD0"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "doYrXHw8H6C8HkJRKKaIK6Yt-SM",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-10-13T09:55:52Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "13.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iY1wsDD32Yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iY1wsDD32Yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iY1wsDD32Yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iY1wsDD32Yo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iY1wsDD32Yo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iY1wsDD32Yo"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kzp5Ffd9oQ3f_7w3vyBuFjBJQVc",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-10-14T12:49:09Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "14.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ToUuwm5ccg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ToUuwm5ccg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ToUuwm5ccg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ToUuwm5ccg4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ToUuwm5ccg4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ToUuwm5ccg4"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ufGsnKqofUBUgPWbL_fCu9QWXr8",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-10-15T06:00:26Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "15.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mQMiXcoqdnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mQMiXcoqdnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQMiXcoqdnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mQMiXcoqdnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mQMiXcoqdnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mQMiXcoqdnk"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CosGalbgnhDgNZBKWenEEZWsA0s",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-10-16T10:15:57Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "16.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uFDaNkQHOyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uFDaNkQHOyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uFDaNkQHOyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uFDaNkQHOyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uFDaNkQHOyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uFDaNkQHOyE"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ySyA0IFf0UXXWJPHl34S9y4wuLo",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-10-19T09:44:37Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "19.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I1qxykABoqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I1qxykABoqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I1qxykABoqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I1qxykABoqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I1qxykABoqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I1qxykABoqA"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Eqt9C7NEWWO5KgpENVM-lETxKtE",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-10-20T07:27:01Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "20.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HmCVkbBv8MM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HmCVkbBv8MM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HmCVkbBv8MM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HmCVkbBv8MM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HmCVkbBv8MM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HmCVkbBv8MM"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bQVHfa0G5HpnlDAW-JDi2F-KN6Y",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-10-21T07:05:48Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "21.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VPNUv6q9s2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VPNUv6q9s2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VPNUv6q9s2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VPNUv6q9s2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VPNUv6q9s2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VPNUv6q9s2c"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xcnoGA4N0VcpmQMj9hN-tpqoImE",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-10-22T10:32:13Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "22.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bWcUelncmDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bWcUelncmDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bWcUelncmDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bWcUelncmDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bWcUelncmDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bWcUelncmDc"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uU7ClBEhv9ortLH2QgJHWQmPLsA",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-10-23T07:04:38Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "23.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6adcj-H0awU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6adcj-H0awU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6adcj-H0awU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6adcj-H0awU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6adcj-H0awU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6adcj-H0awU"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UjF1P5NHNPhVQGGXwYfTDJ9_shE",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-10-26T06:33:51Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "26.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMi9C6awzu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMi9C6awzu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMi9C6awzu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fMi9C6awzu8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fMi9C6awzu8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fMi9C6awzu8"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KrrtWF5ONWBkjtU2fjVf13Jq6H4",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-10-27T08:04:02Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "27.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W39BwfoWJ0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W39BwfoWJ0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W39BwfoWJ0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W39BwfoWJ0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W39BwfoWJ0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W39BwfoWJ0g"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n_YOZ94GuXcQKWEjt0hoSAJ4gcI",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-10-28T11:59:04Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "28.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t5jpm4g38t8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t5jpm4g38t8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t5jpm4g38t8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t5jpm4g38t8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t5jpm4g38t8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t5jpm4g38t8"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X7QZyfvFHifIFtX5L1j8_dm2mwY",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-10-29T06:30:45Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "29.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/134MB8J1wVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/134MB8J1wVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/134MB8J1wVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/134MB8J1wVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/134MB8J1wVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "134MB8J1wVs"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YwVdkgjD_oy4yLBo-ukd8d7Iw4k",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-10-30T05:30:06Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "30.10.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZiGx9FjYr6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZiGx9FjYr6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZiGx9FjYr6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZiGx9FjYr6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZiGx9FjYr6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZiGx9FjYr6I"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "89b8slQFx3GcnM5IZaKzjEo_aLY",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-11-02T04:54:49Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "02.11.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ko2fHp2ShMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ko2fHp2ShMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ko2fHp2ShMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ko2fHp2ShMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ko2fHp2ShMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ko2fHp2ShMk"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rEPPAvsKkM3IjG365ogRgxc7kYE",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-11-03T06:20:57Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "03.11.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sllCYfFjK_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sllCYfFjK_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sllCYfFjK_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sllCYfFjK_I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sllCYfFjK_I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sllCYfFjK_I"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VrbBEp3a5c5tf1Lwu3Gl72yTnII",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-11-04T13:38:40Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "04.11.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PcdWF1nW-ZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PcdWF1nW-ZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PcdWF1nW-ZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PcdWF1nW-ZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PcdWF1nW-ZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PcdWF1nW-ZA"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oHEEzIwwdbko7QlmYIDVQZn2V_E",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-11-16T06:46:59Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "16.11.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PU5GxqOj_Go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PU5GxqOj_Go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PU5GxqOj_Go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PU5GxqOj_Go/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PU5GxqOj_Go/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PU5GxqOj_Go"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J_TRbqhmX2TCBlpJ_-06V8Tg9tE",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-11-17T10:44:38Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "17.11.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YMTlw8Lf2Ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YMTlw8Lf2Ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YMTlw8Lf2Ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YMTlw8Lf2Ao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YMTlw8Lf2Ao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YMTlw8Lf2Ao"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SDwyC0t58RPeZooR61EsW3RMQ6c",
+      "id": "UExtOGI0VHJJUjJBZEJCYWppQW44NGNXbnBlMnJZYUk5aC44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-11-18T07:08:44Z",
+        "channelId": "UCSJKvyZVC0FLiyvo3LeEllg",
+        "title": "18.11.2020 - 2-сынып",
+        "description": "Жаңа, қызықты, танымдық видеоларды өткізіп алмас үшін https://bit.ly/2xTjl0d сілтемесі арқылы өтіп арнамызға жазылыңыз. \n\n«Айдар» мультхикаясы. 3-маусым - https://www.youtube.com/watch?v=If6h-WtLyrM&list=PLm8b4TrIR2Af037ih8Gm9i2lJzF6RTlzQ\n\n«Сәби» мультхикаясы - https://www.youtube.com/watch?v=Z4L__...\n\n«Айдар» мультхикаясы. 2-маусым - https://www.youtube.com/playlist?list...\n\n«Қызыл мен Күлгін» мультхикаясы - https://www.youtube.com/playlist?list...\n\n«Ертемір» мультхикаясы. 2-маусым  - https://www.youtube.com/playlist?list...\n\n«Ақ құс» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Қалқанқұлақ» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Немене» телехикаясы - https://www.youtube.com/playlist?list...\n\n«Күлдір-бүлдір» телехикаясы - https://www.youtube.com/playlist?list...\n\nӘлеуметтің желілердегі парақшаларымыз:\n\nhttps://www.instagram.com/balapantv/ \nhttps://www.facebook.com/balapantv/ \nhttps://vk.com/balapantvkz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AeF-ymeytLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AeF-ymeytLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AeF-ymeytLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AeF-ymeytLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AeF-ymeytLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Balapan TV",
+        "playlistId": "PLm8b4TrIR2AdBBajiAn84cWnpe2rYaI9h",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AeF-ymeytLo"
+        },
+        "videoOwnerChannelTitle": "Balapan TV",
+        "videoOwnerChannelId": "UCSJKvyZVC0FLiyvo3LeEllg"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 140,
+    "resultsPerPage": 50
+  }
+}

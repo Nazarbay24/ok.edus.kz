@@ -1,0 +1,2206 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "_gjU5nZG9u3vLmcJG427ggeZml4",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VpyH2Xy7brqj2AYlyJTBUc9tTqM",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-31T13:48:35Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 7 класс. Hobbies and leisure /01.09.2020/",
+        "description": "Тема урока: Hobbies and leisure\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P0qNY97LtCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P0qNY97LtCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0qNY97LtCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P0qNY97LtCw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P0qNY97LtCw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gDvOn8diEfLQAvM4zeGYu1t929o",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:32:01Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 7 класс. Экологическое факторы среды: абиотические и биотические /01.09.2020/",
+        "description": "Тема урока: Экологическое факторы среды: абиотические и биотические\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ad97o5SyF0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ad97o5SyF0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ad97o5SyF0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ad97o5SyF0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ad97o5SyF0k"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HNJJetly59Xgye9lua8EZM_IbDM",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:33:35Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 7 класс. Физика – наука о природе /01.09.2020/",
+        "description": "Тема урока: Физика – наука о природе\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков:\nhttps://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u1EAehYvMtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u1EAehYvMtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u1EAehYvMtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u1EAehYvMtk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u1EAehYvMtk"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uoIZodVZIYc2VQaLOcPQOlF4MTM",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-08-31T17:35:14Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 7 класс. Правила техники безопасности и знакомство с лабораторным оборудованием /01.09.2020/",
+        "description": "Тема урока: Правила техники безопасности и знакомство с лабораторным оборудованием\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CAnGolY2v4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CAnGolY2v4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CAnGolY2v4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CAnGolY2v4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CAnGolY2v4c"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i74D9xBWflUmKld96PvrLYR7bXA",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:26:46Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 7 класс. Разноспрягаемые глаголы /02.09.2020/",
+        "description": "Тема урока: Разноспрягаемые глаголы. Правописание гласных в суффиксах глаголов\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ITm6yZ1a1LI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ITm6yZ1a1LI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ITm6yZ1a1LI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ITm6yZ1a1LI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ITm6yZ1a1LI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ITm6yZ1a1LI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iIrqY10Z1AMe6SvsGE2gtX9waQk",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:28:36Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 7 класс. Какое значение имела Английская революция середины XVII века /02.09.2020",
+        "description": "Тема урока: Какое значение имела Английская революция середины XVII века?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eL-h9TXAOUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eL-h9TXAOUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eL-h9TXAOUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eL-h9TXAOUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eL-h9TXAOUY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eL-h9TXAOUY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0ukujpft5Kv1-liYXLL5yitstkI",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-09-01T19:29:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 7 класс. Единицы измерения информации /02.09.2020/",
+        "description": "Тема урока: Единицы измерения информации \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GTh1f2P7Y5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GTh1f2P7Y5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTh1f2P7Y5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GTh1f2P7Y5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GTh1f2P7Y5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GTh1f2P7Y5w"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ojKLYNKMDQGhuPoEB4nvBiWPz2Y",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-01T22:57:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 7 класс. Объекты географических исследований /02.09.2020/",
+        "description": "Тема урока: Объекты географических исследований\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IIneDhmVAGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IIneDhmVAGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IIneDhmVAGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IIneDhmVAGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IIneDhmVAGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IIneDhmVAGc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "chIOHlPa-rPS3saPjsOpdfrYobQ",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-01T23:12:23Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 7 класс. Повторение курса математики 5-6 классов /02.09.2020/",
+        "description": "Тема урока: Повторение курса математики 5-6 классов\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Az-nPeC4eRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Az-nPeC4eRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Az-nPeC4eRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Az-nPeC4eRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Az-nPeC4eRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Az-nPeC4eRI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i0E-PVhboAFXlZM23HqVIcUEKJ0",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:27:16Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 7 класс. Основные понятия геометрии. Аксиомы. Теоремы /03.09.2020/",
+        "description": "Тема урока: Основные понятия геометрии. Аксиомы. Теоремы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-3vp_BFBgbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-3vp_BFBgbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-3vp_BFBgbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-3vp_BFBgbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-3vp_BFBgbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-3vp_BFBgbM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8XDVoMCpu-Zbwf50lHL54AoNlJY",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:35:52Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 7 класс. Основные понятия геометрии /01.09.2020/",
+        "description": "Тема урока: Основные понятия геометрии\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QR35Kj13wyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QR35Kj13wyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QR35Kj13wyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QR35Kj13wyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QR35Kj13wyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QR35Kj13wyE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fw3ev-cBXmgqIUJs3-cSvtRQuhQ",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:43:46Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 7 класс. Начало Отечественной войны против Джунгарской агрессии /03.09.2020/",
+        "description": "Тема урока: Начало Отечественной войны против Джунгарской агрессии\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y9uhoyRE42s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y9uhoyRE42s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y9uhoyRE42s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y9uhoyRE42s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y9uhoyRE42s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y9uhoyRE42s"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kBDFeG1utXEGoLjwTBImK1RzoMg",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:45:45Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 7 класс. Методы географических исследований /03.09.2020/",
+        "description": "Тема урока: Методы географических исследований\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4o1Vfj8cJE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4o1Vfj8cJE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4o1Vfj8cJE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4o1Vfj8cJE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4o1Vfj8cJE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4o1Vfj8cJE8"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mnqTBgwhDQ8yGpLNyKqmSWMNnik",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:48:33Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 7 класс. The present simple and the present continuous tenses /03.09.2020/",
+        "description": "Тема урока: The present simple and the present continuous tenses\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N8MQotaE5ws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N8MQotaE5ws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N8MQotaE5ws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N8MQotaE5ws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N8MQotaE5ws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N8MQotaE5ws"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JwDV5lDlUPEzqPp80seHp-sGGls",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-09-02T19:50:38Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 7 класс. Притча о блудном сыне /03.09.2020/",
+        "description": "Тема урока: Краткое содержание курса. Притча о блудном сыне\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V2rtMuyMRS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V2rtMuyMRS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V2rtMuyMRS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V2rtMuyMRS0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V2rtMuyMRS0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V2rtMuyMRS0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xj6lJo3IVHNMI6a0_2T-tkVKc2Y",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:30:57Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 7 класс. Көп тіл білгім келеді /04.09.2020/",
+        "description": "Тема урока: Көп тіл білгім келеді\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NXcB8mJ-0kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NXcB8mJ-0kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NXcB8mJ-0kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NXcB8mJ-0kw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NXcB8mJ-0kw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NXcB8mJ-0kw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SCQCEDwmOpS7F_JrtY_OhpRjkSI",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:31:53Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 7 класс. Повторение курса математики 5-6 классов /04.09.2020/",
+        "description": "Тема урока: Повторение курса математики 5-6 классов\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tg04B6fw2eM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tg04B6fw2eM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tg04B6fw2eM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tg04B6fw2eM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tg04B6fw2eM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tg04B6fw2eM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vfpWBPTAUJESNva0gn8ParxR2qY",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:32:40Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 7 класс. Пищевые цепи и пищевые сети /04.09.2020/",
+        "description": "Тема урока: Пищевые цепи и пищевые сети\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TgseEJa1ui4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TgseEJa1ui4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TgseEJa1ui4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TgseEJa1ui4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TgseEJa1ui4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WO6jVte6b6Uvo69DLBRyKz0k6Lk",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-09-03T21:33:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 7 класс. Научные методы изучения природы /04.09.2020/",
+        "description": "Тема урока: Научные методы изучения природы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7OaCNTzdrUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7OaCNTzdrUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7OaCNTzdrUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7OaCNTzdrUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7OaCNTzdrUY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8PKxr9ap3N-qZNeRb4lX-7HAFYQ",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:09:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 7 класс. Причастие. Причастный оборот /07.09.2020/",
+        "description": "Тема урока: Причастие. Причастный оборот\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6R6xIv6b3EE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6R6xIv6b3EE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6R6xIv6b3EE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6R6xIv6b3EE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6R6xIv6b3EE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6R6xIv6b3EE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XYZiJYJzSVfyH_tgW_2YPFnDRnY",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:10:59Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 7 класс. Талаптыға нұр жауар /07.09.2020/",
+        "description": "Тема урока: Талаптыға нұр жауар\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T1Jw54NXtK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T1Jw54NXtK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T1Jw54NXtK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T1Jw54NXtK4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T1Jw54NXtK4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T1Jw54NXtK4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3P_FhyCb2ZTwZEA6WBpjDtf2QAg",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:12:42Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 7 класс. Начало Отечественной войны против Джунгарской агрессии /07.09.2020/",
+        "description": "Тема урока: Начало Отечественной войны против Джунгарской агрессии \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7oZFcwxrPT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7oZFcwxrPT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7oZFcwxrPT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7oZFcwxrPT0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7oZFcwxrPT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7oZFcwxrPT0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m5Fkwzyidel2mjofczNEwFuSTkk",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-09-06T18:13:41Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 7 класс. Степень с натуральным показателем и ее свойства /07.09.2020/",
+        "description": "Тема урока: Степень с натуральным показателем и ее свойства\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQl2QDuzWwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQl2QDuzWwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQl2QDuzWwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LQl2QDuzWwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LQl2QDuzWwg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LQl2QDuzWwg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QzuHXE06jn_6_z_doNngfPQSG0M",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:45:04Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Химия. 7 класс. Элемент, смесь и соединение /08.09.2020/",
+        "description": "Тема урока: Элемент, смесь и соединение\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nXY0dOEzUdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nXY0dOEzUdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nXY0dOEzUdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nXY0dOEzUdM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nXY0dOEzUdM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rQwsRnLoa1eBNbWnmv4I4UxZjkE",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:46:26Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 7 класс. Международная система единиц /08.09.2020/",
+        "description": "Тема урока: Международная система единиц\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dI-MCBquNlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dI-MCBquNlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dI-MCBquNlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dI-MCBquNlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dI-MCBquNlg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KLVFxoLWH3rPmB-uHzBm5jli2JE",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:47:29Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 7 класс. Take up a hobby /08.09.2020/",
+        "description": "Тема урока: Take up a hobby\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OAWPBJAKYPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OAWPBJAKYPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OAWPBJAKYPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OAWPBJAKYPY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OAWPBJAKYPY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OAWPBJAKYPY"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VuZdMDkPwdC50re5vOPQ6lBvcjk",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:48:34Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 7 класс. Основные понятия геометрии аксиомы. Теоремы /08.09.2020/",
+        "description": "Тема урока: Основные понятия геометрии аксиомы. Теоремы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pwx1ExfK7qI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pwx1ExfK7qI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pwx1ExfK7qI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pwx1ExfK7qI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pwx1ExfK7qI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pwx1ExfK7qI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zAPi59YnOUiEp5O6VBbuxOEABRE",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-09-07T20:50:02Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 7 класс. Экологические  сукцессии /08.09.2020/",
+        "description": "Тема урока: Экологические  сукцессии \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0t6ciiWvPLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0t6ciiWvPLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0t6ciiWvPLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0t6ciiWvPLU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0t6ciiWvPLU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_8-rTvnGRWXsRz7tLTFVmpPzvq8",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:01:43Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Информатика. 7 класс. Единицы измерения информации /09.09.2020/",
+        "description": "Тема урока: Единицы измерения информации\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/soCDay4mutg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/soCDay4mutg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/soCDay4mutg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/soCDay4mutg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "soCDay4mutg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BbrWkY_ado8R6bBbls-yf90_Tu0",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:04:06Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 7 класс. Источники географических наук /09.09.2020/",
+        "description": "Тема урока: Источники географических наук\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/smitXfVKFV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/smitXfVKFV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/smitXfVKFV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/smitXfVKFV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "smitXfVKFV0"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NJU2Jo-vmgPiM0cVr7Y5EC7XbW4",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:07:04Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 7 класс. Причастие. Причастный оборот /09.09.2020/",
+        "description": "Тема урока: Причастие. Причастный оборот\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vgna1JYzQSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vgna1JYzQSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vgna1JYzQSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vgna1JYzQSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vgna1JYzQSU"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vn4KazUU0HSYR09RbyufqOkaQq8",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:09:29Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Всемирная история. 7 класс. Какое значение имела Английская революция середины 17 века? /09.09.2020/",
+        "description": "Тема урока: Какое значение  имела Английская революция середины 17 века?\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y_d3iK4mbEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y_d3iK4mbEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_d3iK4mbEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y_d3iK4mbEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y_d3iK4mbEQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qIF4hEsZ28TxFkugGocbYjtOqiY",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-09-08T20:34:08Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 7 класс. Степень с натуральным показателем и ее свойства /09.09.2020/",
+        "description": "Тема урока: Степень с натуральным показателем и ее свойства\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ypqq5_tESzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ypqq5_tESzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ypqq5_tESzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ypqq5_tESzE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ypqq5_tESzE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oWZzoVdOMrcL0cWgOOtGCjQ1FnM",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:13:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 7 класс. Аксиомы, теоремы /10.09.2020/",
+        "description": "Тема урока: Аксиомы, теоремы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jyGFB74jpbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jyGFB74jpbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyGFB74jpbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jyGFB74jpbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jyGFB74jpbA"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qTBQIZXqHRKm3opqRhMq8aPRhpw",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:16:08Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русская литература. 7 класс. Легенда об Арионе /10.09.2020/",
+        "description": "Тема урока: Легенда об Арионе\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eT8ZybZGkS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eT8ZybZGkS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eT8ZybZGkS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eT8ZybZGkS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eT8ZybZGkS4"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UCV3vBGSCMq0SbtGjX7qDF5mjA8",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:18:40Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 7 класс. Организация единого народного ополчения /10.09.2020/",
+        "description": "Тема урока: Организация единого народного  ополчения\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3-S79u0etKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3-S79u0etKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3-S79u0etKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3-S79u0etKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3-S79u0etKc"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f49JV9eJ4jDIpbbOeyfTpwVZ7Cw",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:21:02Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "География. 7 класс. Свойства географических объектов /10.09.2020/",
+        "description": "Тема урока: Свойства географических объектов\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tsEpDsFEC6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tsEpDsFEC6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tsEpDsFEC6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tsEpDsFEC6U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tsEpDsFEC6U"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7ZFxZfvLv12lBuBvhJZgmQyCOT4",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-09-09T18:23:27Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 7 класс. Comparison degress of adjectives /10.09.2020/",
+        "description": "Тема урока: Comparison degress of adjectives\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fdTjbeVT7os/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fdTjbeVT7os/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdTjbeVT7os/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fdTjbeVT7os/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fdTjbeVT7os"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S1JeMJWX7KqTZetgwmFn4bdqJKs",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-09-10T19:58:32Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 7 класс. М. Жұмабаев «Қазақ тілі» өлеңі /11.09.2020/",
+        "description": "Тема урока: М. Жұмабаев «Қазақ тілі» өлеңі \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qh0ecwzdfvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qh0ecwzdfvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qh0ecwzdfvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qh0ecwzdfvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qh0ecwzdfvs"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "itC_ZCJWn1ffgPO-vs_9WjSY34g",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-09-10T20:00:30Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 7 класс. Степень с целым показателем и ее свойства /11.09.2020/",
+        "description": "Тема урока: Степень с целым показателем и ее свойства\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GBa2ew-R-98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GBa2ew-R-98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GBa2ew-R-98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GBa2ew-R-98/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GBa2ew-R-98"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ET8H6PY-fAFQK48T2e3Ywl195fA",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-09-11T05:24:31Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика.7 класс. Скалярные и векторные физические величины /11.09.2020/",
+        "description": "Тема урока: Скалярные и векторные физические величины\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UAYXheGjZqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UAYXheGjZqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UAYXheGjZqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UAYXheGjZqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UAYXheGjZqo"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Va4gjit8AtbLvmci-MK2lDBOXE",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-09-11T05:30:01Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 7 класс. Человек как часть экосистемы /11.09.2020/",
+        "description": "Тема урока: Человек как часть экосистемы\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fhNc73hgOgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fhNc73hgOgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhNc73hgOgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fhNc73hgOgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fhNc73hgOgM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZxZXqnjp2KihKnCxcjxqc6WvjTE",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-09-13T16:37:04Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Русский язык. 7 класс. Пунктуация. Обособленные определения /14.09.2020/",
+        "description": "Тема урока: Правописание гласных И-Ы после Ц. Пунктуация. Обособленные определения\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_VZGp7ucprQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_VZGp7ucprQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_VZGp7ucprQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_VZGp7ucprQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_VZGp7ucprQ"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "viRu6m2gChJDhAb7uD7kqb8UHNM",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-09-13T16:39:49Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Казахский язык и литература. 7 класс. Біз отбасымызбен мемлекеттік тілде сөйлейміз /14.09.2020/",
+        "description": "Тема урока: Біз отбасымызбен мемлекеттік тілде сөйлейміз\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7cyXPiNUUso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7cyXPiNUUso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7cyXPiNUUso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7cyXPiNUUso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7cyXPiNUUso"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-WOaBdRBGNa1QKjsnijKbPipDVk",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-09-13T16:42:22Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Алгебра. 7 класс. Степень с целым показателем и ее свойства /14.09.2020/",
+        "description": "Тема урока: Степень с целым показателем и ее свойства\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1o7tPcJWVHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1o7tPcJWVHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1o7tPcJWVHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1o7tPcJWVHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1o7tPcJWVHw"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-cTu5WW7MGQowWwNqDGG2RPthUI",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-09-13T16:45:55Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "История Казахстана. 7 класс. Организация единого народного ополчения /14.09.2020/",
+        "description": "Тема урока: Организация единого народного ополчения \n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/00HP-b5a5KI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/00HP-b5a5KI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/00HP-b5a5KI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/00HP-b5a5KI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "00HP-b5a5KI"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QnNHChZaMRKMzKJaw-sf8PFDxgw",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-09-14T23:34:36Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Английский язык. 7 класс. Making plans /15.09.2020/",
+        "description": "Тема урока: Making plans\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TD7pKzc6DKE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TD7pKzc6DKE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TD7pKzc6DKE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TD7pKzc6DKE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TD7pKzc6DKE"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vgIACHqwqM8SuRztq33WHBrw9cQ",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-09-14T23:36:57Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Геометрия. 7 класс. Равенство фигур /15.09.2020/",
+        "description": "Тема урока: Равенство фигур\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYfLFHTMo20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYfLFHTMo20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYfLFHTMo20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qYfLFHTMo20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qYfLFHTMo20"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KSKs2j-vFnCRyfBUJJbI5mdond0",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-09-14T23:39:33Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Физика. 7 класс. Точность измерений и вычислений запись больших и малых чисел /15.09.2020/",
+        "description": "Тема урока: Точность измерений и вычислений запись больших и малых чисел\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/joDQvzbKOYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/joDQvzbKOYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/joDQvzbKOYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/joDQvzbKOYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "joDQvzbKOYM"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QfGjKrbH-sRDyrKoGbqU_yhoILc",
+      "id": "UExESXdOSlljSVE3NUxpNFlxaDlmNXowYTVLQXdwTkNWRS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-09-14T23:41:39Z",
+        "channelId": "UC-ukx52dv3So0vPCURXFGtw",
+        "title": "Биология. 7 класс. Негативное влияние деятельности человека на экосистему /15.09.2020/",
+        "description": "Тема урока: Негативное влияние деятельности человека на экосистему\n\nС понедельника по пятницу с 09:00-18:00 телевизионные уроки в эфире EL ARNA \nЗапись телеуроков: https://www.youtube.com/playlist?list=PLDIwNJYcIQ77fZ7Tqrb5myYpNtQbhnA4p\n\nhttps://edu.elarna.kz/ru/tv-lessons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/En8dH6lWKIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/En8dH6lWKIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/En8dH6lWKIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/En8dH6lWKIg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "EL ARNA",
+        "playlistId": "PLDIwNJYcIQ75Li4Yqh9f5z0a5KAwpNCVE",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "En8dH6lWKIg"
+        },
+        "videoOwnerChannelTitle": "EL ARNA",
+        "videoOwnerChannelId": "UC-ukx52dv3So0vPCURXFGtw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 747,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,116 @@
+{
+    "items": [
+        {
+            "name": "Справочник колледжей",
+            "type": "Электронный справочник",
+            "description": "Справочная информация о колледжах и их специальностях",
+            "logo": "https://web.ok.edus.kz/img/ico_colleges.png",
+            "url": "https://web.ok.edus.kz/guide/colleges/"
+        },
+        {
+            "name": "История Казахстана",
+            "type": "Электронный ресурс",
+            "description": "Источник материалов достоверной информации и об истории Казахстана",
+            "logo": "https://web.ok.edus.kz/img/ico_e-history.png",
+            "url": "https://e-history.kz/kz"
+        },
+        {
+            "name": "Удивительный Мангистау",
+            "type": "Интерактивная карта",
+            "description": "История, легенды и видео-панорамы исторических и культурных мест",
+            "logo": "https://web.ok.edus.kz/img/ico_mangystau-inmap.png",
+            "url": "https://mangystau.inmap.kz/ru/"
+        },
+        {
+            "name": "BilimLand online",
+            "type": "Электронный ресурс",
+            "description": "Учебные и вспомогательные учебные материалы. Онлайн курсы школьной программы.",
+            "logo": "https://web.ok.edus.kz/img/ico_bilimal.png",
+            "url": "https://bilimland.kz/kk"
+        },
+        {
+            "name": "Opiq",
+            "type": "Электронные ресурсы",
+            "description": "Opiq – база электронных учебников, помощник учителей и ученикоы по учебной литературе",
+            "logo": "https://web.ok.edus.kz/img/ico_opiq.png",
+            "url": "https://www.oqulyqtar.kz/Catalog"
+        },
+        {
+            "name": "DuoLingo",
+            "type": "Онлайн образование",
+            "description": "Онлайн-площадка предоставляет свободный доступ к курсам, разработанным в вузе ИТМО",
+            "logo": "https://web.ok.edus.kz/img/ico_duolingo.png",
+            "url": "https://www.duolingo.com/"
+        },
+        {
+            "name": "Daryn.Online",
+            "type": "Онлайн образование",
+            "description": "Предметные курсы обучения и тесты в режиме видео-онлайн. Бесплатный доступ для учащихся.",
+            "logo": "https://web.ok.edus.kz/img/ico_daryn.online.png",
+            "url": "https://daryn.online/"
+        },
+        {
+            "name": "ТЕСТ ОНЛАЙН",
+            "type": "Подготовка к ЕНТ",
+            "description": "Тесты, подсказки, выбор профильного предмета, документы, гранты, послешкольное образование.",
+            "logo": "https://web.ok.edus.kz/img/ico_testentru.png",
+            "url": "http://testent.ru/"
+        },
+        {
+            "name": "ITMO Online",
+            "type": "Онлайн образование",
+            "description": "Онлайн-площадка предоставляет свободный доступ к курсам вуза ИТМО",
+            "logo": "https://web.ok.edus.kz/img/ico_itmo.png",
+            "url": "https://online.ifmo.ru/"
+        },
+        {
+            "name": "Lingualeo",
+            "type": "Онлайн обучение",
+            "description": "Изучение и практика иностранного языка, построенная на игровой механике",
+            "logo": "https://web.ok.edus.kz/img/ico_lingualeo.png",
+            "url": "https://lingualeo.com/ru"
+        },
+        {
+            "name": "IQ2U",
+            "type": "Онлайн обучение",
+            "description": "Онлайн тесты и полезные материалы для учеников и преподавателей",
+            "logo": "https://web.ok.edus.kz/img/ico_iq2u.png",
+            "url": "https://iq2u.ru/"
+        },
+        {
+            "name": "Edutainme",
+            "type": "Образовательный ресурс",
+            "description": "Oриентируется на педагогов, предпринимателей и методистов.",
+            "logo": "https://web.ok.edus.kz/img/ico_edutainme.png",
+            "url": "http://edutainme.ru/"
+        },
+        {
+            "name": "Образовка",
+            "type": "Онлайн тестирование",
+            "description": "Огромная коллекция тестов по основным предметам школьной программы",
+            "logo": "https://web.ok.edus.kz/img/ico_obrazovka.png",
+            "url": "https://obrazovaka.ru/"
+        },
+        {
+            "name": "OYLA",
+            "type": "Электронные ресурсы",
+            "description": "Научно-популярное издание для детей. «Ойла» на казахском означает «думай».",
+            "logo": "https://web.ok.edus.kz/img/ico_oyla.png",
+            "url": "https://oyla.xyz/"
+        },
+        {
+            "name": "GeekBrains",
+            "type": "Онлайн образование",
+            "description": "Хочешь научиться программировать? Доступ к десяткам бесплатных материалов",
+            "logo": "https://web.ok.edus.kz/img/ico_geekbrains.png",
+            "url": "https://gb.ru/courses/all?tab=free#free"
+        },
+        {
+            "name": "IQша",
+            "type": "Развитие детей",
+            "description": "Развитие и обучение детей в игровой форме. Можно заниматься без помощи взрослых",
+            "logo": "https://web.ok.edus.kz/img/ico_iqsha.png",
+            "url": "https://iqsha.ru/"
+        }
+    ]
+}
